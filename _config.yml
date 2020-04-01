@@ -9,8 +9,7 @@ site-twitter: iwozik #if your site has a twitter account, enter it here
 # Author Settings
 author: DevRel Events # add your name
 author-img: avocado-128.png # add your photo
-about-author: Like what we're doing? Want to have our event at your office?
-Please reach us at devrel.events@gmail.com to learn how this works. # add description
+about-author: Like what we're doing? Want to have our event at your office? Talk to us to learn how this works. # add description
 social-twitter: iwozik # add your Twitter handle
 social-facebook: devrelevents # add your Facebook handle
 social-github: tooevangelist # add your Github handle
