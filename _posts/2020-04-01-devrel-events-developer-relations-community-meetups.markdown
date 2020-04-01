@@ -2,7 +2,7 @@
 layout: post
 title: "These are the meetups we still plan to do:"
 date: 2020-04-01 10:00:00 +0000
-description: Developer Relations meetups in Stockholm\ Games Tech + Stories meetups in Vilnius\ Code, Speak, Repeat workshops in Vilnius\ Find our events on Eventbrite or Facebook # Add post description (optional)
+description: <ul><li>Developer Relations meetups in Stockholm</li><li>Games Tech + Stories meetups in Vilnius</li><li>Code, Speak, Repeat workshops in Vilnius</li><li>Find our events on Eventbrite or Facebook</li></ul> # Add post description (optional)
 img:  # Add image post (optional)
 ---
 * Developer Relations meetups in Stockholm
