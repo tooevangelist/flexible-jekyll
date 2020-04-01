@@ -1,15 +1,16 @@
 title: Developer Relations Events
 description: > # this means to ignore newlines until "baseurl:"
-  Developer Relations Events
+  Developer Relations Events configyml
 permalink: ':title/'
 baseurl: # "/flexible-jekyll" # the subpath of your site, e.g. /blog
 url: http://devrel.work # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: iwozik #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Name Surname # add your name
+author: DevRel Events # add your name
 author-img: avocado-128.png # add your photo
-about-author: That's a description. # add description
+about-author: Like what we're doing? Want to have our event at your office?
+Please reach us at devrel.events@gmail.com to learn how this works. # add description
 social-twitter: iwozik # add your Twitter handle
 social-facebook: devrelevents # add your Facebook handle
 social-github: tooevangelist # add your Github handle
