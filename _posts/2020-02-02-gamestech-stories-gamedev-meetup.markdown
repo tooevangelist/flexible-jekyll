@@ -3,7 +3,7 @@ layout: post
 title: GamesTech + Stories meetups in Vilnius
 date: 2020-02-02 10:00:00 +0000
 description: Long long very long descriptions how does it look. You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: gamestech-1280.jpg # Add image post (optional)
+img: gamestech-1280.png # Add image post (optional)
 tags: [GameDev, Meetups, Vilnius] # add tag
 ---
 
