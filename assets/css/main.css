@@ -1225,6 +1225,7 @@ a.newer-posts:hover {
   max-height: 500px;
   background-color: #fafafa;
   overflow: hidden;
+  vertical-align: middle;
 }
 
 .page-cover-image figure {

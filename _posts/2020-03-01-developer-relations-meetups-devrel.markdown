@@ -1,6 +1,6 @@
 ---
 layout: post
-title: That's a title let's see how a long title looks like really
+title: Interactive meetups around developer relations and communities
 date: 2020-03-01 15:00:00 +0000
 description: Long long very long descriptions how does it look. You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: devrel-1280.png # Add image post (optional)
