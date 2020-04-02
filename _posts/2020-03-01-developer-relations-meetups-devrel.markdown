@@ -2,10 +2,10 @@
 layout: post
 title: Interactive meetups around developer relations and communities
 date: 2020-03-01 15:00:00 +0000
-description: Long long very long descriptions how does it look. You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Developer Relations meetups welcome everyone working or interested in developer relations, developer evangelism, developer communities and alike . # Add post description (optional)
 img: devrel-1280.png # Add image post (optional)
 fig-caption: what's a fig caption? # Add figcaption (optional)
-tags: [DevRel, Meetups]
+tags: [DevRel, Meetups, Stockholm]
 ---
 The next Developer Relations meetup is at Grafana Labs office.
 
@@ -19,7 +19,7 @@ To get a feeling what it is like - check out the pictures from previous DevRel m
 * 18:30 - Doors open
 * 19:00 - Welcome note and a lightning talk: TBA
 * 19:30 - Keynote by Marcus Olsson, Grafana: Building a DevRel team for open source software
-* *0:15 - Networking/workshop/unconference:
+* 20:15 - Networking/workshop/unconference:
 * * How developer relations specialists can work with tech writers
 * * Building devrel communities around open source
 * * Writing tech articles or writing sample code?

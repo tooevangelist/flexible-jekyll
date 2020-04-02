@@ -1226,6 +1226,7 @@ a.newer-posts:hover {
   background-color: #fafafa;
   overflow: hidden;
   vertical-align: middle;
+  align-self: center;
 }
 
 .page-cover-image figure {
