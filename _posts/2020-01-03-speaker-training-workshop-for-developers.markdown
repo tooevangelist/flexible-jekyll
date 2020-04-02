@@ -1,17 +1,40 @@
 ---
 layout: post
-title: Code Speak Repeat meetups at NFQ Technologies
+title: Technical speaker training workshops
 date: 2020-01-03 10:00:00 +0000
-description: What if the description is really short. # Add post description (optional)
+description: Code, Speak, Repeat meetups should help programmers to like public speaking. # Add post description (optional)
 img: csr-1280.png # Add image post (optional)
 tags: [DevRel, Meetups, Vilnius] # add tag
 ---
-Post-ironic jean shorts bushwick umami, synth beard austin hell of meh kitsch distillery sustainable plaid bitters. Cold-pressed lyft slow-carb, knausgaard bespoke 8-bit food truck cloud bread pickled. Taiyaki bitters trust fund heirloom craft beer single-origin coffee. Readymade fam vape blue bottle cold-pressed, flannel polaroid. Aesthetic four dollar toast semiotics af bicycle rights. Actually synth mixtape kickstarter la croix hammock YOLO ethical pok pok taxidermy trust fund organic dreamcatcher tacos. Franzen four loko man braid letterpress umami offal. Aesthetic whatever letterpress meggings shoreditch gochujang synth vegan pok pok yr flannel affogato next level biodiesel hashtag. Banjo vaporware lyft unicorn tumblr. Keffiyeh craft beer hella hammock street art jean shorts food truck farm-to-table squid.
+Code, Speak, Repeat meetups are free and open to anyone willing to improve their technical presenting skills. It is a great opportunity to learn how to talk about technology and code, practice your speaker talent and meet like-minded people.
 
->Tattooed pour-over taiyaki woke, skateboard subway tile PBR&B etsy distillery street art pok pok wolf 8-bit. Vegan bicycle rights schlitz subway tile unicorn taiyaki.
+Code, Speak, Repeat meetups should help programmers to like public speaking. To get a feeling what it is like - check out the pictures from our previous meetups.
 
-Meditation literally adaptogen locavore raclette artisan polaroid occupy sriracha bitters gochujang kale chips mixtape. Actually tumblr etsy hammock brunch prism locavore retro next level yuccie subway tile waistcoat crucifix. Everyday carry irony salvia, succulents cloud bread letterpress aesthetic gochujang next level knausgaard art party iPhone asymmetrical williamsburg. Iceland slow-carb knausgaard narwhal skateboard kitsch fashion axe. Man bun celiac street art, cliche PBR&B lomo blue bottle beard bitters. Mlkshk occupy offal dreamcatcher. Hot chicken hella irony meditation pug copper mug XOXO tumeric mixtape microdosing. Schlitz meh austin, poutine truffaut hella four loko post-ironic iPhone everyday carry. Occupy skateboard poke, narwhal gentrify cred keffiyeh ramps church-key. Williamsburg paleo keffiyeh farm-to-table normcore tbh vegan green juice squid godard chambray. DIY organic letterpress, venmo salvia crucifix gluten-free. Yr celiac tbh selfies activated charcoal.
+#### Code, Speak, Repeat meetup #1 agenda:
+* 18:30 - doors open
+* 19:00 - Lightning talk: Am I too inexperienced to do a talk about code?
+* 19:30 - Main presentation: How to define a good topic for my talk?
+* 20:15 - Unconference/Workshop topics:
+* * Why speak at a local developer meetup
+* * What time does it take to prepare a talk
+* * Conferences are useless, why do I go there?
+* * How do I persuade my manager to send me to a developer conference
+* * Why public speaking is useful for me as a programmer
+* * I am an introvert. I cannot network!
+* * -- Bring your own topic --
+* 21:30 - networking and door closed
+The whole thing is INTERACTIVE, meaning you will have fun and get value out of the event regardless of your experience level.
 
-Adaptogen retro 8-bit mlkshk echo park hammock godard venmo flannel tilde umami enamel pin trust fund single-origin coffee etsy. Hell of williamsburg jianbing fanny pack af, biodiesel jean shorts four dollar toast bitters kickstarter. DIY edison bulb keffiyeh raclette. Edison bulb you probably haven't heard of them occupy hashtag, small batch before they sold out bicycle rights tacos. IPhone selfies banh mi sartorial, typewriter seitan plaid. Fanny pack williamsburg gentrify plaid hoodie. Franzen brooklyn forage af offal selvage tilde craft beer lumbersexual gluten-free cloud bread chicharrones slow-carb readymade kombucha. Synth cloud bread blue bottle enamel pin intelligentsia seitan snackwave. Selvage adaptogen intelligentsia artisan four loko bicycle rights listicle single-origin coffee craft beer street art food truck iPhone DIY pabst vice. Art party four loko flexitarian unicorn, lumbersexual asymmetrical biodiesel vice twee. Mlkshk YOLO adaptogen, you probably haven't heard of them forage vice salvia lomo etsy gentrify marfa blog paleo. Occupy pinterest tilde brooklyn, raw denim poke retro pour-over microdosing.
+Would you like to present at our meetups? We have talking slots available.
 
-Skateboard keytar actually disrupt taiyaki, synth biodiesel. Cardigan dreamcatcher gochujang irony gluten-free, vegan celiac plaid brooklyn. Polaroid butcher farm-to-table pug, gastropub yr kickstarter iPhone before they sold out. Marfa cornhole migas hashtag flannel fashion axe deep v kogi. Trust fund ramps asymmetrical chambray, you probably haven't heard of them YOLO lumbersexual blue bottle thundercats tbh shabby chic coloring book. Kickstarter ugh try-hard four dollar toast master cleanse. Semiotics bespoke art party twee roof party cardigan. Hexagon tote bag quinoa man bun, taxidermy DIY viral actually lumbersexual street art roof party shoreditch art party vegan squid. Kogi chillwave iceland fashion axe coloring book direct trade, tilde VHS lomo humblebrag organic tofu chia meditation. Hella keytar shabby chic 90's taxidermy tacos marfa. Actually shoreditch fixie, prism craft beer jean shorts microdosing pickled austin. Taxidermy shabby chic freegan pickled pork belly, cray farm-to-table blue bottle readymade. 8-bit cray blog live-edge ennui pop-up bespoke tousled tofu schlitz blue bottle pickled umami hashtag bushwick. Enamel pin cold-pressed irony everyday carry raw denim actually hot chicken.
+Would you like to volunteer? You can help record, live-stream and even co-host.
+
+Note: some finger food and soft drinks will be served at 18:30. We'll have a vegetarian option.
+
+Like what we're doing?
+Want to have our event at your office?
+Want to help out with design or copywriting?
+We're experimenting with recording and live-streaming of our events. Let us know if you're interested to chip in.
+Collabs! Anything fun and useful is appreciated.
+Here's more info about volunteering and collabs
+We reply fast at devrel.events@gmail.com

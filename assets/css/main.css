@@ -831,11 +831,12 @@ table {
   background-color: #eee;
   width: 100%;
   text-align: center;
+  vertical-align:top;
   border-collapse: collapse;
 }
 
 table td, table.blueTable th {
-  border: 1px solid #aaa;
+  border: 1px solid #eee;
   padding: 3px 2px;
 }
 
@@ -1244,7 +1245,7 @@ a.newer-posts:hover {
 }
 
 .page-cover-image .page-image {
-/*  width: 100%; cover images maybe */
+  width: 100%; 
   height: 100%;
 }
 
