@@ -6,7 +6,7 @@ description: Feel free to unitarelary dictate what would you like to help out wi
 img: volunteers-750.png # Add image post (optional)
 tags: [Volunteering, Meetups] # add tag
 ---
-## Why and how to volunteer at our events
+
 We're responsible for developers-focused community meetups in Stockholm and Vilnius:
 * [Our events on Facebook](https://www.facebook.com/pg/devrel.events/events)
 * [Our events on Eventbrite](https://www.eventbrite.com/o/developer-relations-events-26740448969)

@@ -5,33 +5,27 @@ date: 2020-04-01 10:00:00 +0000
 description: Fellow humans, it sometimes feels like we live in a sci-fi novel. Despite all troubles, it is important to stay SANE, while our world and life are sorts of falling apart.<ul><li>Developer Relations meetups in Stockholm</li><li>Games Tech + Stories meetups in Vilnius</li><li>Code, Speak, Repeat workshops in Vilnius</li><li>Find our events on Eventbrite or Facebook</li><p></ul><a href="https://devrel.work/devrel-events-developer-relations-community-meetups/">Read On!</a></p> # Add post description (optional)
 img:  # Add image post (optional)
 ---
-* Developer Relations meetups in Stockholm
-* Games Tech + Stories meetups in Vilnius
-* Code, Speak, Repeat workshops in Vilnius
-* Find our events on Eventbrite or Facebook
 
-![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+* Developer Relations meetups in Stockholm - [call for papers](cfp-devrel-meetups-stockholm.md)
+* Games Tech + Stories meetups in Vilnius - [call for papers](cfp-gamestech-stories.md)
+* Code, Speak, Repeat workshops in Vilnius - [call for papers](cfp-code-speak-repeat.md)
+* Find our events on [Eventbrite](https://www.eventbrite.com/o/developer-relations-events-26740448969) or [Facebook](https://www.facebook.com/pg/devrelevents/events/)
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<img align="right" width="300" src="{{site.baseurl}}/assets/img/3ofus_400_white.png">
+  
+#### Like what we're doing?
+Want to have our event at your office or venue? 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+As a host you may have a strong influence on event agenda and the main talking slot. We'd work together to figure out what works best for the community and you.
 
-Jekyll also offers powerful support for code snippets:
+Currently we don't charge anyone anything. You can raise an issue here or reach us at devrel.events@gmail.com to learn how this works.
 
+As a host you're responsible for guests to feel safe and welcome. Food and drinks are optional but a very nice thing to have. The rest is on us.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+#### Other opportunities:
+* We're experimenting with recording and live-streaming of our events. Let us know if you're interested to chip in.
+* Collabs. Communication partners. Anything fun and useful is appreciated.
+* Check out [volunteering.md](volunteering.md) for details
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
