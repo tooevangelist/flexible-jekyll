@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Technical speaker training workshops
-date: 2020-01-03 10:00:00 +0000
+date: 2020-02-12 10:00:00 +0000
 description: Code, Speak, Repeat meetups should help programmers to like public speaking. # Add post description (optional)
-img: csr-1280.png # Add image post (optional)
+img: csr-750.png # Add image post (optional)
 tags: [DevRel, Meetups, Vilnius] # add tag
 ---
 Code, Speak, Repeat meetups are free and open to anyone willing to improve their technical presenting skills. It is a great opportunity to learn how to talk about technology and code, practice your speaker talent and meet like-minded people.

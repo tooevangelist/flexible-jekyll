@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interactive meetups for game developers
+title: Every meetup is a celebration and a little show
 date: 2020-02-02 10:00:00 +0000
 description: Games Tech + Stories is a series of community meetups to discuss game development tools and processes but also to celebrate the wins of the local gamedev industry. # Add post description (optional)
 img: gamestech-750.png # Add image post (optional)

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Interactive meetups around developer relations and communities
-date: 2020-03-01 15:00:00 +0000
+date: 2020-03-01 10:00:00 +0000
 description: Developer Relations meetups welcome everyone working or interested in developer relations, developer evangelism, developer communities and alike . # Add post description (optional)
-img: devrel-1280.png # Add image post (optional)
+img: devrel-750.png # Add image post (optional)
 fig-caption: what's a fig caption? # Add figcaption (optional)
 tags: [DevRel, Meetups, Stockholm]
 ---
