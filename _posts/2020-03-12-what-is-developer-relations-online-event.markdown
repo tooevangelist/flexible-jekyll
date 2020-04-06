@@ -27,3 +27,5 @@ I believe we can have fun while discussing various aspects of developer relation
 So here we go. We can have fun, connect to peers and generate useful content. I'll make sure everyone on these videos looks and sounds good, is easy to find for the viewers. 
 
 Fun and useful is the best pitch of the event.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-uvgGiZ911H1Y6WdpQ2s55p7yVRWTTBNc_1EeLY0xBmtpaQ/viewform?embedded=true" width="700" height="2069" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
