@@ -5,7 +5,7 @@ date: 2020-03-12 10:00:00 +0000
 description: 4 speakers (who change every time). Each brings a devrel-related topic that we discuss together. # Add post description (optional)
 img: widevrel-750.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [Meetup, Online, DevRel] # add tag
+tags: [Meetups, Online, DevRel] # add tag
 ---
 
 I want to throw in a Google Meet video-call next week to share ideas and knowledge and to inspire each other. 
@@ -28,4 +28,4 @@ So here we go. We can have fun, connect to peers and generate useful content. I'
 
 Fun and useful is the best pitch of the event.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-uvgGiZ911H1Y6WdpQ2s55p7yVRWTTBNc_1EeLY0xBmtpaQ/viewform?embedded=true" width="700" height="2069" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd-uvgGiZ911H1Y6WdpQ2s55p7yVRWTTBNc_1EeLY0xBmtpaQ/viewform?embedded=true" width="700" height="2080" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
