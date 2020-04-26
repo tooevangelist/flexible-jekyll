@@ -23,8 +23,9 @@ This is a regular markdown file found [in this GitHub repo](https://github.com/t
 * If you're doing something beyond basic edits, please check on your local Jekyll setup first.
 
 
-#### Also think about:
-You can add HTML snippets like a Mailchimp signup form or Eventbrite register form 
+### You can add HTML snippets like a Mailchimp signup form or Eventbrite register form 
+</br>
+
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -43,15 +44,7 @@ You can add HTML snippets like a Mailchimp signup form or Eventbrite register fo
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
-<div class="mc-field-group input-group">
-    <strong>I care about meetups in </strong>
-    <ul><li><input type="checkbox" value="1" name="group[55291][1]" id="mce-group[55291]-55291-0"><label for="mce-group[55291]-55291-0">Vilnius</label></li>
-<li><input type="checkbox" value="2" name="group[55291][2]" id="mce-group[55291]-55291-1"><label for="mce-group[55291]-55291-1">Stockholm</label></li>
-<li><input type="checkbox" value="4" name="group[55291][4]" id="mce-group[55291]-55291-2"><label for="mce-group[55291]-55291-2">Munich</label></li>
-<li><input type="checkbox" value="8" name="group[55291][8]" id="mce-group[55291]-55291-3"><label for="mce-group[55291]-55291-3">Minsk</label></li>
-<li><input type="checkbox" value="16" name="group[55291][16]" id="mce-group[55291]-55291-4"><label for="mce-group[55291]-55291-4">Let me know when other cities are available</label></li>
-</ul>
-</div>
+
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
