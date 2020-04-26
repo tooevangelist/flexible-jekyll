@@ -9,7 +9,7 @@ site-twitter: iwozik #if your site has a twitter account, enter it here
 # Author Settings
 author: DevRel Events # add your name
 author-img: avocado-128.png # add your photo
-about-author: Like what we're doing? Want to have our event at your office? Talk to us to learn how this works. # add description
+about-author: Community sourced list of meetups around the topics of developer relations, tech writing, developer community management
 social-twitter: iwozik # add your Twitter handle
 social-facebook: devrelevents # add your Facebook handle
 social-github: tooevangelist # add your Github handle
@@ -30,7 +30,7 @@ plugins:
   - jekyll-seo-tag
   - jemoji
 
-paginate: 8
+paginate: 16
 paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

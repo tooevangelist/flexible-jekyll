@@ -1,12 +1,15 @@
 ---
 layout: post
-title: Interactive meetups around developer relations and communities
+title: Developer relations meetups in Stockholm
 date: 2020-03-01 10:00:00 +0000
 description: Developer Relations meetups welcome everyone working or interested in developer relations, developer evangelism, developer communities and alike . # Add post description (optional)
 img: devrel-750.png # Add image post (optional)
 fig-caption: what's a fig caption? # Add figcaption (optional)
 tags: [DevRel, Meetups, Stockholm]
 ---
+
+## This is a pre-corona version of the page and will be updated soon
+
 The next Developer Relations meetup is at Grafana Labs office.
 
 The mood of the event is developer relations and open source.

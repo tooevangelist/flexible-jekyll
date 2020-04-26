@@ -6,6 +6,9 @@ description: Code, Speak, Repeat meetups should help programmers to like public 
 img: csr-750.png # Add image post (optional)
 tags: [DevRel, Meetups, Vilnius] # add tag
 ---
+
+## This is a pre-corona version of the page and will be updated soon
+
 Code, Speak, Repeat meetups are free and open to anyone willing to improve their technical presenting skills. It is a great opportunity to learn how to talk about technology and code, practice your speaker talent and meet like-minded people.
 
 Code, Speak, Repeat meetups should help programmers to like public speaking. To get a feeling what it is like - check out the pictures from our previous meetups.

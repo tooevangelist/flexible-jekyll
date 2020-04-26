@@ -7,6 +7,8 @@ img: gamestech-750.png # Add image post (optional)
 tags: [GameDev, Meetups, Vilnius] # add tag
 ---
 
+## This is a pre-corona version of the page and will be updated soon
+
 Games Tech + Stories is a series of community meetups to discuss game development tools and processes but also to celebrate the wins of the local gamedev industry.
 
 It is a great opportunity to learn something new, see the cool things that local game developers make and meet new people.

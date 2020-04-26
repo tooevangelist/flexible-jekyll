@@ -2,7 +2,7 @@
 layout: post
 title: Online Meetup dedicated to API reference and developer docs
 date: 2020-04-29 10:00:00 +0000
-description: <b>Wed, Apr 29 5:45 PM - 7:30 PM CEST</b></br> Watch live or later on YouTube. See inside for the line-up and details. 
+description: <b>Wed, Apr 29. 5:45 PM - 7:30 PM CEST</b></br> Watch live or later on YouTube. See inside for the line-up and details. 
 img: devrel-meetup-750.png
 tags: [DevRel, Meetups, Online, Europe]
 ---
