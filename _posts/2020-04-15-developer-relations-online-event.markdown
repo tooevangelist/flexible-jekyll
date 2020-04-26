@@ -3,7 +3,7 @@ layout: post
 title: Online devrel meetup with live-streaming and recording
 date: 2020-04-15 10:00:00 +0000
 description: <ul><li>Wed, Apr 15 5:45 PM - 7:30 PM CEST</li></ul></br> Watch live or later on YouTube. See inside for the line-up and details. 
-img: widevrel-750.png 
+img: devrel-meetup-750.png 
 tags: [DevRel, Meetups, Online, Europe]
 ---
 
