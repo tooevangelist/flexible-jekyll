@@ -1,31 +1,30 @@
 ---
 layout: post
 title: How to add your own devrel meetup to this list
-date: 2021-01-01 10:00:00 +0000
-description: Fellow humans, it sometimes feels like we live in a sci-fi novel. Despite all troubles, it is important to stay SANE, while our world and life are sorts of falling apart.<ul><li>Developer Relations meetups in Stockholm</li><li>Games Tech + Stories meetups in Vilnius</li><li>Code, Speak, Repeat workshops in Vilnius</li><li>Find our events on Eventbrite or Facebook</li><p></ul><a href="https://devrel.work/devrel-events-developer-relations-community-meetups/">Read On!</a></p> # Add post description (optional)
-img:  # Add image post (optional)
+date: 2021-01-01 10:00:00 +0000 # Date and time for your event
+description: Edit a copy of this markdown file with your event details make a pull request to Master. Here's <a href="https://github.com/tooevangelist/tooevangelist.github.io/blob/master/README.md">Readme.md file</a> with more details.</br> Click on to see how an event stub may look like # Post description
+img: github-repo-750.png # Cover image. 750x500 px works best 
+tags: [DevRel, Meetups, Online, Howto] #Tags help site visitors find events. Add an own tag i.e. DevrelFolks and a city, if you feel like it 
 ---
 
-* Developer Relations meetups in Stockholm - [call for papers](cfp-devrel-meetups-stockholm.md)
-* Games Tech + Stories meetups in Vilnius - [call for papers](cfp-gamestech-stories.md)
-* Code, Speak, Repeat workshops in Vilnius - [call for papers](cfp-code-speak-repeat.md)
-* Find our events on [Eventbrite](https://www.eventbrite.com/o/developer-relations-events-26740448969) or [Facebook](https://www.facebook.com/pg/devrelevents/events/)
+This is a regular markdown file found [in this GitHub repo](https://github.com/tooevangelist/tooevangelist.github.io/tree/master/_posts). Make a copy of it on your fork. Name it as: _your-event-date-your-event-name.md_ and edit the text below and above. Send a pull request to Master for your changes to appear on https://devrel.events
 
+### FAQ
+* This is a stub, we'll fill it on as we go.
+* You're also very welcome to contribute both to this file and the readme.md
+* Any questions? Please [raise an issue](https://github.com/tooevangelist/tooevangelist.github.io/issues).
+
+### What to think about when adding an event?
+* Link to how to register for the event, probably on [Eventbrite](https://www.eventbrite.com/o/developer-relations-events-26740448969) or [Facebook](https://www.facebook.com/pg/devrelevents/events/)
+* HTML mostly works well, so you can include online images like this:
 <img align="right" width="300" src="{{site.baseurl}}/assets/img/3ofus_400_white.png">
-  
-#### Like what we're doing?
-Want to have our event at your office or venue? 
+* Please upload your images to _/assets/img/your-event-name_
+* This website is built with [GitHub Pages](https://pages.github.com/), so is basically a set of Jekyll generated static pages
+* If you're doing something beyond basic edits, please check on your local Jekyll setup first.
 
-As a host you may have a strong influence on event agenda and the main talking slot. We'd work together to figure out what works best for the community and you.
 
-Currently we don't charge anyone anything. You can raise an issue here or reach us at devrel.events@gmail.com to learn how this works.
-
-As a host you're responsible for guests to feel safe and welcome. Food and drinks are optional but a very nice thing to have. The rest is on us.
-
-#### Other opportunities:
-* We're experimenting with recording and live-streaming of our events. Let us know if you're interested to chip in.
-* Collabs. Communication partners. Anything fun and useful is appreciated.
-* Check out [volunteering.md](volunteering.md) for details
+#### Also think about:
+You can add HTML snippets like a Mailchimp signup form or Eventbrite register form 
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">

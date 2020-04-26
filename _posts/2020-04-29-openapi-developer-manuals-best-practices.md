@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Interactive meetups around developer relations and communities
+title: Online Meetup dedicated to API reference and developer docs
 date: 2020-04-29 10:00:00 +0000
-description: Developer Relations Online Meetup dedicated to API reference and developer docs. Watch live or later on YouTube. See inside for thr line-up and details. # Add post description (optional)
+description: Watch live or later on YouTube. See inside for thr line-up and details. # Add post description (optional)
 img: devrel-meetup-750.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [DevRel, Meetups, Online, Europe]
@@ -10,7 +10,7 @@ tags: [DevRel, Meetups, Online, Europe]
 
 ### Here's a 5 minute video summary of the previous devrel meetup:
 
-https://www.youtube.com/watch?v=YHj5HiV2fPA
+[https://www.youtube.com/watch?v=YHj5HiV2fPA](https://www.youtube.com/watch?v=YHj5HiV2fPA)
 
 
 
@@ -19,7 +19,11 @@ https://www.youtube.com/watch?v=YHj5HiV2fPA
 * Lorna Mitchell, Senior Developer Advocate at Nexmo - API Documentation with OpenAPI
 * Qian (Chocolate) Lu, Technical Writer at Curity - Encouraging developers to write docs
 
-<div id="eventbrite-widget-container-103116520288"></div>
+The recording of this event will be uploaded to [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
+
+### See [this event on Eventbrite](https://www.eventbrite.com/e/developer-relations-online-meetup-api-reference-and-developer-docs-tickets-103116520288) or register right here:
+
+<p><div id="eventbrite-widget-container-103116520288"></div>
 
 <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
@@ -38,7 +42,7 @@ https://www.youtube.com/watch?v=YHj5HiV2fPA
         iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
         onOrderComplete: exampleCallback  // Method called when an order has successfully completed
     });
-</script>
+</script></p>
 
 
 #### A bit more context for the curious:
