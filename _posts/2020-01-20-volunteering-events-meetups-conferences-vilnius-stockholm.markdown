@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Why and how to volunteer at our events
+title: Volunteering:  why and how
 date: 2020-01-20 10:00:00 +0000
 description: Feel free to unitarelary dictate what would you like to help out with, what's the capacity you'd like to offer and what would you like to get back. # Add post description (optional)
-img: volunteers-750.png # Add image post (optional)
-tags: [Volunteering, Meetups] # add tag
+img: volunteers-750.png 
+tags: [Volunteering, Meetups] 
 ---
+
+## This is a pre-corona version of the page and will be updated soon
 
 We're responsible for developers-focused community meetups in Stockholm and Vilnius:
 * [Our events on Facebook](https://www.facebook.com/pg/devrel.events/events)
