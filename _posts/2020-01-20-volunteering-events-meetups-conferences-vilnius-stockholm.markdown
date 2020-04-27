@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Volunteering:  why and how
+title: Volunteering - why and how
 date: 2020-01-20 10:00:00 +0000
 description: Feel free to unitarelary dictate what would you like to help out with, what's the capacity you'd like to offer and what would you like to get back. # Add post description (optional)
 img: volunteers-750.png 
