@@ -19,7 +19,9 @@ The format evolves and improves with your feedback. So please take your time to 
 
 ## Do you have a schedule for future events?
 The high ambition is to have biweekly events. The first place we announce our events is [devrelevents.eventbrite.com](https://devrelevents.eventbrite.com/). 
-Themes for the events are often defined by the speakers. So let us know of a topic you'd like to deliver a talk about. We'll pair you up with peers and will arrange a devrel event around your topic.
+Themes for events are often defined by the speakers. So let us know of a topic you'd like to deliver a talk about. We'll pair you up with peers and will arrange a devrel event around your topic.
+
+*NOTE:* If you need help with starting a community meetup of your own, perhaps we can help. See [readme.md](/README.md)
 
 #### Current event plan:
 * One more public speaking for programmers meetup
