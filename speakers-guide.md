@@ -1,10 +1,10 @@
 ![devrel meetup](/assets/img/devrel-meetup-750.png)
 ## Wanna speak at Devrel Online Meetup?
 * Your talk is 15 minutes max
-* You can do slides or share a screen
+* You can show slides or share a screen
 * You're one of the 3 speakers
 * Your talk will be streamed live and then posted on [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
-* The Q&A session after your talk is usually 10-15 minutes long
+* The panel discussion after your talk is usually 10-15 minutes long
 * It is fine if your talk provokes a good discussion, but it also has to provide a good statement
 * If you want to, you're welcome to have a slide about what you do and where to find you =]
 
@@ -12,8 +12,6 @@
 
 ## Who are the speakers normally?
 Our and my humble ambition is to have the speakers as diverse as possible with each devrel meetup focusing on a 1 certain aspect of what we care about in devrel. In other words, devrel meetups exist to facilitate comprehensive dialogue across the industry with a focus around developer relations. Think of a hallway track at your favourite industry event. This is what we're aiming at here.
-
-In many ways, the event spirit is about amplifying humble voices, enabling healthy dialogue, thinking brave ideas aloud.
 
 The format evolves and improves with your feedback. So please take your time to share your thoughts with us.
 
