@@ -24,7 +24,7 @@ Probably the easiest way is to use Zoom or Google Meet and have it as a call in 
 * * If I like your event I can host your videos on youtube.com/devrelevents
 * * If I like your event even more, I can also do the work in cutting your event into smaller videos for YouTube
 * I can help you setup Eventbrite and Facebook Events, write a good copy/event ad
-* * You've guessed it, if I like your event, I can host it on devrelevents.eventbrite.com and facebook.com/devrelevents
+* * You've guessed it, if I like your event, I can host it on _devrelevents.eventbrite.com_ and _facebook.com/devrelevents_
 * Need help with something else? Please [raise an issue](https://github.com/tooevangelist/tooevangelist.github.io/issues) or email to devrel.events@gmail.com
 
 ### FAQ
