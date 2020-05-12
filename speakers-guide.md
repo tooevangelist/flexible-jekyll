@@ -29,7 +29,9 @@ So let us know of a topic you'd like to deliver a talk about. We'll pair you up 
 * May 13 - public speaking for programmers, part 1
 * May 27 - online conferences that make sense
 * June 10 - public speaking for programmers, part 2
-* June 24 - probably KPIs for devrel??
+* June 24 - KPIs for devrel
+* July 8 - public speaking for programmers, part 3 <-- we have 2 speaking slots here
+* July 22 or 29 - we can have an event around the topic you're passionate to drive forward
 
 Themes that we'd like to bring up, but don't have anything scheduled yet:
 * Design, UX and devexp in devrel
