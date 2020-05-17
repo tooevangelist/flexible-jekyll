@@ -8,7 +8,7 @@ site-twitter: iwozik #if your site has a twitter account, enter it here
 # Author Settings
 author: DevRel Events # add your name
 author-img: avocado-128.png # add your photo
-about-author: Community sourced list of meetups around the topics of developer relations, tech writing, developer community management. See below for the GitHub repo link and contacts. 
+about-author: Community sourced list of meetups around the topics of developer relations, tech writing, developer community management. 
 social-twitter: iwozik # add your Twitter handle
 social-facebook: devrelevents # add your Facebook handle
 social-github: tooevangelist # add your Github handle
