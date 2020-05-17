@@ -13,21 +13,21 @@ This event has started a series where we discuss public speaking for programmers
 * a view of a self-taught, second career developer who has started doing tech talks just recently - Veronica Hanus (USA)
 
 ### The event line-up:
-##### Laura Silvanavičiūtė, Frontend Software Engineer at Swedbank
-* * How to become a speaker 101
-* * [twitter.com/laurasilvanavi](https://twitter.com/laurasilvanavi)
+#### Laura Silvanavičiūtė, Frontend Software Engineer at Swedbank
+* How to become a speaker 101
+* [twitter.com/laurasilvanavi](https://twitter.com/laurasilvanavi)
 
-##### Akshat Sharma, Developer Relations & Ecosystem at Tradeling
+#### Akshat Sharma, Developer Relations & Ecosystem at Tradeling
 * Public Speaking as a Developer
 * [twitter.com/shrmaky](https://twitter.com/shrmaky)
 
-##### Veronica Hanus, a programmer and an often speaker
+#### Veronica Hanus, a programmer and an often speaker
 * How do I know what I am good to speak about
 * [twitter.com/veronica_hanus](https://twitter.com/veronica_hanus)
 
 The recording of this event is available at [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=w_8fcbwfe-I&list=PLOY5WvYhE7ctJQHhoh73lp87BUFcFECfR&index=3&t=1s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLOY5WvYhE7ctJQHhoh73lp87BUFcFECfR" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### [Speaker's guide and future events' schedule](https://devrel.events/speakers-guide)

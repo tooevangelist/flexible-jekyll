@@ -1,19 +1,18 @@
 ---
 layout: post
-title: How to add your own devrel meetup to this list
+title: Want to speak at one of our devrel meetups?
 date: 2021-02-02 10:00:00 +0000 # Date and time for your event
 description: Your talk is 8-10 minutes * Your talk has a single take-away message * You can show slides or share a screen * Read on for more context and FAQ # Post description
 img: devrel-events-750.png # Cover image. 750x500 px works best 
 tags: [DevRel, Meetups, Online, Howto] #Tags help site visitors find events. Add an own tag i.e. DevrelFolks and a city, if you feel like it 
 ---
 
-## Wanna speak at Devrel Online Meetup?
-#### TL;DR:
+## TL;DR:
 * Your talk is 8-10 minutes
 * Your talk has a single take-away message
 * You can show slides or share a screen
 
-#### More context:
+## More context:
 * You're one of the 3 speakers
 * We'll have a panel discussion around your talk's message after your talk
 * The panel discussion after your talk is usually 10-15 minutes long
@@ -39,7 +38,7 @@ So let us know of a topic you'd like to deliver a talk about. We'll pair you up 
 
 *NOTE:* If you need help with starting a community meetup of your own, perhaps we can help. See [readme.md](/README.md)
 
-#### Current events plan:
+### Current events plan:
 * May 13 - public speaking for programmers, part 1
 * May 27 - online conferences that make sense
 * June 10 - public speaking for programmers, part 2
@@ -47,7 +46,7 @@ So let us know of a topic you'd like to deliver a talk about. We'll pair you up 
 * July 8 - public speaking for programmers, part 3 <-- we have 2 speaking slots here
 * July 22 or 29 - we can have an event around the topic you're passionate to drive forward
 
-#### Themes that we'd like to bring up, but don't have anything scheduled yet:
+### Themes that we'd like to bring up, but don't have anything scheduled yet:
 * Design, UX and devexp in devrel
 * How to become a good developer advocate
 * Designing educational content for developers
