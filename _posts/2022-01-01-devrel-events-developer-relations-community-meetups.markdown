@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to add your own devrel meetup to this list
-date: 2021-01-01 10:00:00 +0000 # Date and time for your event
+title: Use GitHub to add your own devrel meetup to this list
+date: 2022-01-01 10:00:00 +0000 # Date and time for your event
 description: Edit a copy of this markdown file with your event details make a pull request to Master. Or see the Readme.md file for more details.</br> Click on to see how an event ad may look like # Post description
 img: github-repo-750.png # Cover image. 750x500 px works best 
 tags: [DevRel, Meetups, Online, Howto] #Tags help site visitors find events. Add an own tag i.e. DevrelFolks and a city, if you feel like it 

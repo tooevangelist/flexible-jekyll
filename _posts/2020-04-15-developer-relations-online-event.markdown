@@ -2,7 +2,7 @@
 layout: post
 title: Online devrel meetup with live-streaming and recording
 date: 2020-04-15 10:00:00 +0000
-description: Watch live or later on YouTube. See inside for the line-up and details. 
+description: See the recording and the discussion panel on YouTube.  
 img: devrel-meetup-750.png 
 tags: [DevRel, Meetups, Online, Europe]
 ---
@@ -20,17 +20,7 @@ tags: [DevRel, Meetups, Online, Europe]
 
 The recording of this event is available at [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YHj5HiV2fPA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=-9MS4U1QH7c&list=PLOY5WvYhE7ctJQHhoh73lp87BUFcFECfR&index=3" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-#### A bit more context for the curious:
-There were many things that led me to kickstart this online meetup. Here's 3 from the top of my head:
-
-Many devrel ppl became open to new opportunities
-The real-life events probably are not to return until autumn
-There's so much online events and meetings now, but few that are fun
-I believe we can have fun while discussing various aspects of developer relations, a topic, many of us are so passionate about. And I believe these online meetups of ours can be cut into meaningful rewatchable pieces of valuable information, good for YouTube and useful for people.
-
-So here we go. We can have fun, connect to peers and generate useful content. Also I'll make sure everyone on these videos looks and sounds good, has their social channels/LinkedIn featured.
-
-Fun and useful is the best pitch of the event.
+### [Speaker's guide and future events' schedule](https://devrel.events/speakers-guide)
