@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Online devrel meetup with live-streaming and recording
+title: Online meetup with live-streaming and recording
 date: 2020-04-15 10:00:00 +0000
 description: See the recording and the discussion panel on YouTube.  
 img: devrel-meetup-750.png 
