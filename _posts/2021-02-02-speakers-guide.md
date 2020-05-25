@@ -12,7 +12,8 @@ tags: [DevRel, Meetups, Online, Howto] #Tags help site visitors find events. Add
 * Your talk has a single take-away message
 * You can show slides or share a screen
 
-## More context:
+<details>
+<summary>## More context:</summary>
 * You're one of the 3 speakers
 * We'll have a panel discussion around your talk's message after your talk
 * The panel discussion after your talk is usually 10-15 minutes long
@@ -21,6 +22,7 @@ tags: [DevRel, Meetups, Online, Howto] #Tags help site visitors find events. Add
 * If you like this all, feel free to invite a friend to speak or to join the live-stream
 * Your talk will be streamed live and then posted on [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
 * Obviously you're very welcome to bring in your community, share the recording, etc. Thank you!
+</details>
 
 *BONUS:* [Here's an event demo](https://www.youtube.com/watch?v=YHj5HiV2fPA) for you to get inspiration from
 
