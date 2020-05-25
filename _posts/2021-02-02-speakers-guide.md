@@ -13,8 +13,8 @@ tags: [DevRel, Meetups, Online, Howto] #Tags help site visitors find events. Add
 * You can show slides or share a screen
 * Think of a hallway track at your favourite industry event. This is what we're aiming at here.
 
-<details>
 ## More context:
+<details>
 <summary>Click for more context</summary>
 
 * You're one of the 3 speakers
