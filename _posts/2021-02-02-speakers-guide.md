@@ -14,9 +14,6 @@ tags: [DevRel, Meetups, Online, Howto] #Tags help site visitors find events. Add
 * Think of a hallway track at your favourite industry event. This is what we're aiming at here.
 
 ## More context:
-<details>
-<summary>Click for more context</summary>
-
 * You're one of the 3 speakers
 * We'll have a panel discussion around your talk's message after your talk
 * The panel discussion after your talk is usually 10-15 minutes long
@@ -25,9 +22,9 @@ tags: [DevRel, Meetups, Online, Howto] #Tags help site visitors find events. Add
 * If you like this all, feel free to invite a friend to speak or to join the live-stream
 * Your talk will be streamed live and then posted on [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
 * Obviously you're very welcome to bring in your community, share the recording, etc. Thank you!
-</details>
 
 *BONUS:* [Here's an event demo](https://www.youtube.com/watch?v=YHj5HiV2fPA) for you to get inspiration from
+
 
 ## Who are the speakers?
 Our and my humble ambition is to have speakers as diverse as possible with each meetup having a clear theme. Speakers are developers, tech writers, developer advocates, community managers, conference organisers, devops people, developer managers. We try to balance each meetup to feature diverce voices with different experience. 
@@ -35,7 +32,7 @@ Our and my humble ambition is to have speakers as diverse as possible with each 
 The format evolves and improves with your feedback. So please take your time to share your thoughts with us.
 
 
-## Current events plan:
+## [Current events plan:]((https://devrelevents.eventbrite.com/)
 * May 27 - online conferences that make sense
 * June 10 - public speaking for programmers, part 2
 * June 24 - KPIs for devrel
@@ -44,23 +41,8 @@ The format evolves and improves with your feedback. So please take your time to 
 
 *NOTE:* If you need help with starting a community meetup of your own, perhaps we can help. See [readme.md](/README.md)
 
-<details>
-<summary> Do you have a schedule for future events? </summary>
 
-The high ambition is to have biweekly devrel events, but sometimes we do custom events if somebody asks us to. Check out [devrelevents.eventbrite.com](https://devrelevents.eventbrite.com/) to see what's on currently.
-
-Themes for events are often defined by people like you, who are willing to come and do a presentation around a topic they're passionate about.
-So let us know of a topic you'd like to deliver a talk about. We'll pair you up with peers and will arrange a devrel event around your topic.
-
-### Themes that we'd like to bring up, but don't have anything scheduled yet:
-* Design, UX and devexp in devrel
-* How to become a good developer advocate
-* Designing educational content for developers
-</details>
-
-<details>
-<summary>These are some of our past online events:</summary>
-
+## These are some of our past online events:
 Find presentations and discussion panels at [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
 
 May 13 - Theme: public speaking for programmers
@@ -77,12 +59,10 @@ April 15 - Theme: Developer relations
 * Hassan Al Kazmi, Artist Advocate at King - How much support should a developer advocate provide
 * Janina Łaszkiewicz, Agile Coach, Community Manager, Founder of Eventspace.by - Doing events so developers like them 3000
 * Mostafa Moradian, Developer Advocate at Load Impact - DevRel content strategies with a focus on SEO optimization for developers
-</details>
-
 
 
 ## Are the talks recorded?
-Yes. We all join in the live-stream about 15 minutes before the start, hang out with people in the chat, tune in the equipment, test slides, say hi. It is only the talks and post-talk discussions that end up on [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
+Yes. We all join in the [live-stream]((https://www.youtube.com/devrelevents)) about 15 minutes before the start, hang out with people in the chat, tune in the equipment, test slides, say hi. It is only the talks and post-talk discussions that end up on [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
 
 ## How to contact us?
 * devrel.events@gmail.com
