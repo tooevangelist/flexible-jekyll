@@ -32,7 +32,7 @@ Our and my humble ambition is to have speakers as diverse as possible with each 
 The format evolves and improves with your feedback. So please take your time to share your thoughts with us.
 
 
-## [Current events plan:]((https://devrelevents.eventbrite.com/)
+## [Current events plan:](https://devrelevents.eventbrite.com/)
 * May 27 - online conferences that make sense
 * June 10 - public speaking for programmers, part 2
 * June 24 - KPIs for devrel
