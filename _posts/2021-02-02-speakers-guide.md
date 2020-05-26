@@ -58,12 +58,12 @@ Find presentations and discussion panels at [youtube.com/devrelevents](https://w
 
 May 13 - Theme: public speaking for programmers
 * Laura Silvanavičiūtė, Frontend Software Engineer at Swedbank - How to become a speaker 101
-* Akshat Sharma, Developer Relations & Ecosystem at Tradeling - Public Speaking as a Developer
+* Akshat Sharma, Developer Relations & Ecosystem at Tradeling - Public speaking as a developer
 * Veronica Hanus, a programmer and an often speaker - How do I know what I am good to speak about
 
 April 29 - Theme: developers friendly documentation
 * Felix Kerger, Developer Advocate at King: Building a good API reference with open source tools
-* Lorna Mitchell, Senior Developer Advocate at Nexmo - API Documentation with OpenAPI
+* Lorna Mitchell, Senior Developer Advocate at Nexmo - API documentation with OpenAPI
 * Qian (Chocolate) Lu, Technical Writer at Curity - Encouraging developers to write docs
 
 April 15 - Theme: Developer relations
