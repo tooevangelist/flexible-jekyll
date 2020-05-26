@@ -44,7 +44,7 @@ June 24 - KPIs for devrel
 * this slot is open for you
 
 July 8 - public speaking for programmers, part 3
-* Suyash Joshi, Developer Advocate and SPM for Oracle Cloud - TBA
+* Suyash Joshi, Developer Advocate and SPM for Oracle Cloud - Storytelling for technical speakers
 * this slot is open for you
 * this slot is open for you
 
