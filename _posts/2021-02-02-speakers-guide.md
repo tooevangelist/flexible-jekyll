@@ -35,7 +35,7 @@ May 27 - online conferences that make sense
 
 June 10 - public speaking for programmers, part 2
 * Leon Stigter, Cloud Developer Advocate at VMware - Every talk has to be unique, right?
-* Heidi Waterhouse , Developer Advocate at LaunchDarkly - Speaker bio: I am having an existential crisis
+* Heidi Waterhouse, Developer Advocate at LaunchDarkly - Speaker bio: I am having an existential crisis
 * Ciro Continisio, Developer Advocate at Unity Technologies - Building Curiosity: Making feature demos actually interesting
 
 June 24 - KPIs for devrel
@@ -73,7 +73,7 @@ April 15 - Theme: Developer relations
 
 
 ## Are the talks recorded?
-Yes. We all join in the [live-stream]((https://www.youtube.com/devrelevents)) about 15 minutes before the start, hang out with people in the chat, tune in the equipment, test slides, say hi. It is only the talks and post-talk discussions that end up on [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
+Yes. We all join in the [live-stream]((https://www.youtube.com/devrelevents)) about 15 minutes before the start, hang out with people in the chat, tune in the equipment, test slides, say hi. It is only the talks and discussions panels that end up on [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
 
 ## How to contact us?
 * devrel.events@gmail.com

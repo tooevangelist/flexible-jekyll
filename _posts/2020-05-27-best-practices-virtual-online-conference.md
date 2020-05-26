@@ -15,7 +15,7 @@ This event features 2 founders who have recently transitioned their IRL-events t
 * [twitter.com/NeringaYoung](https://twitter.com/NeringaYoung)
 
 #### Lerika Mallaeva, founder of DevGAMM
-* TBA
+* Moving my conference online: do's and don'ts
 * [twitter.com/lerika](https://twitter.com/lerika)
 
 #### Robin Moffatt, Senior Developer Advocate at Confluent
