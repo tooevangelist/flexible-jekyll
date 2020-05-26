@@ -7,6 +7,8 @@ img: devrel-events-750.png # Cover image. 750x500 px works best
 tags: [DevRel, Meetups, Online, Howto] #Tags help site visitors find events. Add an own tag i.e. DevrelFolks and a city, if you feel like it 
 ---
 
+Our and my humble ambition is to have speakers as diverse as possible with each meetup having a clear theme. Speakers are developers, tech writers, developer advocates, community managers, conference organisers, devops people, developer managers. We try to balance each meetup to feature diverce voices with different experience. 
+
 ## TL;DR:
 * Your talk is 10 minutes
 * Your talk has a single take-away message
@@ -17,27 +19,36 @@ tags: [DevRel, Meetups, Online, Howto] #Tags help site visitors find events. Add
 * You're one of the 3 speakers
 * We'll have a panel discussion around your talk's message after your talk
 * The panel discussion after your talk is usually 10-15 minutes long
-* It is fine if your talk provokes a good discussion, but it also has to provide a good statement
 * If you want to, you're welcome to have a slide about what you do and where to find you
-* If you like this all, feel free to invite a friend to speak or to join the live-stream
 * Your talk will be streamed live and then posted on [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
-* Obviously you're very welcome to bring in your community, share the recording, etc. Thank you!
+
+To make these meetups event more fun we inspire you to invite a friend, perhaps share the event to your professional network. Maybe also suggest your marketing department to tweet about the meetup? After all, you'll be one of the stars of the show!  
 
 *BONUS:* [Here's an event demo](https://www.youtube.com/watch?v=YHj5HiV2fPA) for you to get inspiration from
 
 
-## Who are the speakers?
-Our and my humble ambition is to have speakers as diverse as possible with each meetup having a clear theme. Speakers are developers, tech writers, developer advocates, community managers, conference organisers, devops people, developer managers. We try to balance each meetup to feature diverce voices with different experience. 
-
-The format evolves and improves with your feedback. So please take your time to share your thoughts with us.
-
-
 ## [Current events plan:](https://devrelevents.eventbrite.com/)
-* May 27 - online conferences that make sense
-* June 10 - public speaking for programmers, part 2
-* June 24 - KPIs for devrel
-* July 8 - public speaking for programmers, part 3 <-- we have 2 speaking slots here
-* July 22 or 29 - we can have an event around the topic you're passionate to drive forward
+May 27 - online conferences that make sense
+* Neringa Young, founder of BuildStuff.events - How to sell your virtual event?
+* Lerika Mallaeva, founder of DevGAMM - Moving my conference online: do's and don'ts
+* Robin Moffatt, Senior Developer Advocate at Confluent - I'm not a YouTuber; come and learn how you can not be one too
+
+June 10 - public speaking for programmers, part 2
+* Leon Stigter, Cloud Developer Advocate at VMware - Every talk has to be unique, right?
+* Heidi Waterhouse , Developer Advocate at LaunchDarkly - Speaker bio: I am having an existential crisis
+* Ciro Continisio, Developer Advocate at Unity Technologies - Building Curiosity: Making feature demos actually interesting
+
+June 24 - KPIs for devrel
+* this slot is open for you
+* this slot is open for you
+* this slot is open for you
+
+July 8 - public speaking for programmers, part 3
+* Suyash Joshi, Developer Advocate and SPM for Oracle Cloud - TBA
+* this slot is open for you
+* this slot is open for you
+
+July 22 or 29 - we can have an event around the topic you're passionate to drive forward
 
 *NOTE:* If you need help with starting a community meetup of your own, perhaps we can help. See [readme.md](/README.md)
 
