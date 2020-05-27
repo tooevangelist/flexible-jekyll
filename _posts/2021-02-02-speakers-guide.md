@@ -11,14 +11,12 @@ Our and my humble ambition is to have speakers as diverse as possible with each 
 
 ## TL;DR:
 * Your talk is 10 minutes
-* Your talk has a single take-away message
 * You can show slides or share a screen
 * Think of a hallway track at your favourite industry event. This is what we're aiming at here.
 
 ## More context:
 * You're one of the 3 speakers
-* We'll have a panel discussion around your talk's message after your talk
-* The panel discussion after your talk is usually 10-15 minutes long
+* We'll have a panel discussion afterwards
 * If you want to, you're welcome to have a slide about what you do and where to find you
 * Your talk will be streamed live and then posted on [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
 
@@ -28,10 +26,6 @@ To make these meetups event more fun we inspire you to invite a friend, perhaps 
 
 
 ## [Current events plan:](https://devrelevents.eventbrite.com/)
-May 27 - online conferences that make sense
-* Neringa Young, founder of BuildStuff.events - How to sell your virtual event?
-* Lerika Mallaeva, founder of DevGAMM - Moving my conference online: do's and don'ts
-* Robin Moffatt, Senior Developer Advocate at Confluent - I'm not a YouTuber; come and learn how you can not be one too
 
 June 10 - public speaking for programmers, part 2
 * Leon Stigter, Cloud Developer Advocate at VMware - Every talk has to be unique, right?
@@ -39,22 +33,32 @@ June 10 - public speaking for programmers, part 2
 * Ciro Continisio, Developer Advocate at Unity Technologies - Building Curiosity: Making feature demos actually interesting
 
 June 24 - KPIs for devrel
-* this slot is open for you
-* this slot is open for you
-* this slot is open for you
+* Alyss Noland, Senior Developer Advocate at Box - Metrics aren't your north star 
+* Someone from Orbit - topic TBA
+* This slot is open, want to speak?
 
 July 8 - public speaking for programmers, part 3
 * Suyash Joshi, Developer Advocate and SPM for Oracle Cloud - Storytelling for technical speakers
-* this slot is open for you
-* this slot is open for you
+* This slot is open, want to speak?
+* This slot is open, want to speak?
 
-July 22 or 29 - we can have an event around the topic you're passionate to drive forward
+July 22 - developer blogs and youtube channels
+* Viktor Gamov, Developer Advocate at Confluent - I’m not a YouTuber; come and learn how you can be one, or die trying
+* This slot is open, want to speak?
+* This slot is open, want to speak?
+
+August... shall we do meetups in August? ;-)  
 
 *NOTE:* If you need help with starting a community meetup of your own, perhaps we can help. See [readme.md](/README.md)
 
 
 ## These are some of our past online events:
 Find presentations and discussion panels at [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
+
+May 27 - online conferences that make sense
+* Neringa Young, founder of BuildStuff.events - How to sell your virtual event?
+* Lerika Mallaeva, founder of DevGAMM - Moving my conference online: do's and don'ts
+* Robin Moffatt, Senior Developer Advocate at Confluent - I'm not a YouTuber; come and learn how you can not be one too
 
 May 13 - Theme: public speaking for programmers
 * Laura Silvanavičiūtė, Frontend Software Engineer at Swedbank - How to become a speaker 101
