@@ -20,7 +20,7 @@ Our and my humble ambition is to have speakers as diverse as possible with each 
 * If you want to, you're welcome to have a slide about what you do and where to find you
 * Your talk will be streamed live and then posted on [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
 
-## You're be one of the 3 stars of the show! Your friends and colleagues may want to watch you on YouTube
+## Your friends and colleagues may want to watch you on YouTube
 * Check out [devrel.events/live](https://devrel.events/live/) - that's how your friends and colleagues can watch the event
 * Perhaps share the event to your professional network
 * Maybe also suggest your marketing department to tweet about the meetup
