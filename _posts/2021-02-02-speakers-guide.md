@@ -25,7 +25,7 @@ To make these meetups event more fun we inspire you to invite a friend, perhaps 
 *BONUS:* [Here's an event demo](https://www.youtube.com/watch?v=YHj5HiV2fPA) for you to get inspiration from
 
 
-## [Current events plan:](https://devrelevents.eventbrite.com/)
+## Current events plan:
 
 June 10 - public speaking for programmers, part 2
 * Leon Stigter, Cloud Developer Advocate at VMware - Every talk has to be unique, right?
@@ -47,7 +47,7 @@ July 22 - developer blogs and youtube channels
 * This slot is open, want to speak?
 * This slot is open, want to speak?
 
-August... shall we do meetups in August? ;-)  
+August 5 and August 19 meetups are in the process of planning. Have ideas? Wanna speak?
 
 *NOTE:* If you need help with starting a community meetup of your own, perhaps we can help. See [readme.md](/README.md)
 
