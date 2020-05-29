@@ -7,12 +7,12 @@ img: devrel-events-750.png # Cover image. 750x500 px works best
 tags: [DevRel, Meetups, About] #Tags help site visitors find events. Add an own tag i.e. DevrelFolks and a city, if you feel like it 
 ---
 
-Our and my humble ambition is to have speakers as diverse as possible with each meetup having a clear theme. Speakers are developers, tech writers, developer advocates, community managers, conference organisers, devops people, developer managers. We try to balance each meetup to feature diverce voices with different experience. 
+Our speakers are developers, tech writers, developer advocates, community managers, conference organisers, devops people, developer managers and anyone who can contribute to the topics in discussion. We try to balance each meetup to feature speakers with different experience and background, so we all are able to learn something new and have fun. or vice versa =] Think of a hallway track at your favourite industry event. This is what we're aiming at here.
 
 ## TL;DR:
 * Your talk is 10 minutes
-* You can show slides or share a screen
-* Think of a hallway track at your favourite industry event. This is what we're aiming at here.
+* If you go overtime, we'll have less (or no) time for Q&A
+* You can show slides or share the screen
 
 ## More context:
 * You're one of the 3 speakers
@@ -21,7 +21,7 @@ Our and my humble ambition is to have speakers as diverse as possible with each 
 * Your talk will be streamed live and then posted on [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
 
 ## Your friends and colleagues may want to watch you on YouTube
-* Check out [devrel.events/live](https://devrel.events/live/) - that's how your friends and colleagues can watch the event
+* [devrel.events/live](https://devrel.events/live/) is how your friends and colleagues can watch the event
 * Perhaps share the event to your professional network
 * Maybe also suggest your marketing department to tweet about the meetup
 
