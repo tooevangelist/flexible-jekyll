@@ -20,7 +20,8 @@ tags: [DevRel, Meetups, Online, Europe]
 
 The recording of this event is available at [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLOY5WvYhE7ctJQHhoh73lp87BUFcFECfR" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="embed-youtube">
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/videoseries?list=PLOY5WvYhE7ctJQHhoh73lp87BUFcFECfR" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
-### [Speaker's guide and future events' schedule](https://devrel.events/speakers-guide)
+### Future events' schedule: [devrel.events/live](https://devrel.events/live)

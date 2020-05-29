@@ -24,28 +24,8 @@ This event features 2 founders who have recently transitioned their IRL-events t
 
 The recording of this event will be available at [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
 
-### Register to get a reminder and the recording
-
-<div id="eventbrite-widget-container-105540219638"></div>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '105540219638',
-        iframeContainerId: 'eventbrite-widget-container-105540219638',
-
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
+<div class="embed-youtube">
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/videoseries?list=PLOY5WvYhE7ctJQHhoh73lp87BUFcFECfR" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
-### [Speaker's guide and future events' schedule](https://devrel.events/speakers-guide)
+### Future events' schedule: [devrel.events/live](https://devrel.events/live)

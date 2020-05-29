@@ -16,37 +16,40 @@ Our and my humble ambition is to have speakers as diverse as possible with each 
 
 ## More context:
 * You're one of the 3 speakers
-* We'll have a panel discussion afterwards
+* We'll have a panel discussion after all the talks - see the schedule at [devrel.events/live](https://devrel.events/live/)
 * If you want to, you're welcome to have a slide about what you do and where to find you
 * Your talk will be streamed live and then posted on [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
 
-To make these meetups event more fun we inspire you to invite a friend, perhaps share the event to your professional network. Maybe also suggest your marketing department to tweet about the meetup? After all, you'll be one of the stars of the show!  
+## You're be one of the 3 stars of the show! Your friends and colleagues may want to watch you on YouTube
+* Check out [devrel.events/live](https://devrel.events/live/) - that's how your friends and colleagues can watch the event
+* Perhaps share the event to your professional network
+* Maybe also suggest your marketing department to tweet about the meetup
+
 
 
 ## You can [watch videos from previous developer relations meetups](https://www.youtube.com/playlist?list=PLOY5WvYhE7ctJQHhoh73lp87BUFcFECfR) to get inspired
-Most of these talks are on our YouTube channel already: [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
 
-May 27 - online conferences that make sense
+May 27 - Online conferences and content for developers
 * Neringa Young, founder of BuildStuff.events - How to sell your virtual event?
 * Lerika Mallaeva, founder of DevGAMM - Moving my conference online: do's and don'ts
 * Robin Moffatt, Senior Developer Advocate at Confluent - I'm not a YouTuber; come and learn how you can not be one too
 
-May 13 - Theme: public speaking for programmers
+May 13 - Public speaking for programmers
 * Laura Silvanavičiūtė, Frontend Software Engineer at Swedbank - How to become a speaker 101
 * Akshat Sharma, Developer Relations & Ecosystem at Tradeling - Public speaking as a developer
 * Veronica Hanus, a programmer and an often speaker - How do I know what I am good to speak about
 
-April 29 - Theme: developers friendly documentation
+April 29 - Your API reference is your evangelist
 * Felix Kerger, Developer Advocate at King: Building a good API reference with open source tools
 * Lorna Mitchell, Senior Developer Advocate at Nexmo - API documentation with OpenAPI
 * Qian (Chocolate) Lu, Technical Writer at Curity - Encouraging developers to write docs
 
-April 15 - Theme: Developer relations
+April 15 - Developer Relations
 * Hassan Al Kazmi, Artist Advocate at King - How much support should a developer advocate provide
 * Janina Łaszkiewicz, Agile Coach, Community Manager, Founder of Eventspace.by - Doing events so developers like them 3000
 * Mostafa Moradian, Developer Advocate at Load Impact - DevRel content strategies with a focus on SEO optimization for developers
 
-
+Most of these talks are on our YouTube channel already: [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
 
 ## How to contact us?
 * devrel.events@gmail.com
