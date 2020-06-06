@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Theme - Online conferences for programmers
+title: Meetup - Community leadership and developer events
 date: 2020-05-27 10:00:00 +0000
-description: See the recording and the discussion panel on YouTube. 
-img: devrel-meetup-750.png
-tags: [DevRel, Meetups, Online, Public Speaking]
+description: Talk to developer community leaders, meet events and meetups org teams, discuss tools and services
+img: https://i.ytimg.com/vi/71NxL0XV2J4/mqdefault.jpg
+tags: [Meetups, Community, YouTube, Online, Conferences]
 ---
 
 This event features 2 founders who have recently transitioned their IRL-events to an online format and an experienced developer advocate who has recently shifted to producing technical videos on YouTube.  
@@ -25,7 +25,7 @@ This event features 2 founders who have recently transitioned their IRL-events t
 The recording of this event will be available at [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
 
 <div class="embed-youtube">
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/videoseries?list=PLOY5WvYhE7ctJQHhoh73lp87BUFcFECfR" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/videoseries?list=PLOY5WvYhE7cssZr2SacCCekQhUUoUi7o9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 ### Future events' schedule: [devrel.events/live](https://devrel.events/live)
