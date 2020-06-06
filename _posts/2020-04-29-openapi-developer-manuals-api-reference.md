@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Meetu - Your API reference is your evangelist
+title: Your API reference is your evangelist
 date: 2020-04-29 10:00:00 +0000
-description: See the recording and the discussion panel on YouTube. 
+description: We look at documentation from the developer experience angle and discuss tools and the best practices 
 img: devrel-meetup-750.png
 tags: [DevRel, Meetups, YouTube, Documentarians]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meetup - Public speaking for programmers
+title: Public speaking for programmers
 date: 2020-05-13 10:00:00 +0000
 description: Meet developers who like speaking at conferences to learn why and how from them
 img: devrel-meetup-750.png

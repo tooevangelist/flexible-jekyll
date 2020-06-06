@@ -1,20 +1,20 @@
 ---
 layout: post
-title: KPIs in developer relations
-date: 2020-06-24 10:00:00 +0000
-description: Meets data-driven colleagues and discuss how does one put a number to relations 
-img: devrel-meetup-750.png 
-tags: [DevRel, Meetups, YouTube, Business, Marketing]
+title: Youtube and blogging for programmers
+date: 2020-05-03 10:00:00 +0000
+description: Meet developers who like speaking at conferences to learn why and how from them
+img: devrel-meetup-750.png
+tags: [Meetups, YouTube, Leadership, Influencing, Business]
 ---
 
 ### Future events' schedule: [devrel.events/live](https://devrel.events/live)
 
-This event is in the planning stage for June 24
+This event is in the planning stage for July 22
 
 ### The event line-up:
-* Alyss Noland, Senior Developer Advocate at Box - Metrics aren't your north star 
-* Someone from Orbit - topic TBA
-* Someone from SlashData - topic TBA
+* Viktor Gamov, Developer Advocate at Confluent - I’m not a YouTuber; come and learn how you can be one, or die trying
+* Shodipo Ayomide, Senior Developer Advocate at Fleek HQ - Principles Guiding Technical Articles: for dev.to
+* This slot is open, want to speak?
 
 ### Here's a 5 minute video summary this devrel meetup:
 

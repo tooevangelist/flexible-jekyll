@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meetup - Community leadership and developer events
+title: Community leadership and developer events
 date: 2020-05-27 10:00:00 +0000
 description: Talk to developer community leaders, meet events and meetups org teams, discuss tools and services
 img: devrel-meetup-750.png
