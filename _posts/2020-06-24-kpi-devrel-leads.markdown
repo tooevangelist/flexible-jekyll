@@ -2,7 +2,7 @@
 layout: post
 title: KPIs in developer relations
 date: 2020-06-24 10:00:00 +0000
-description: Meets data-driven colleagues and discuss how does one put a number to relations 
+description: Meet data-driven colleagues and discuss how does one put a number to relations 
 img: devrel-meetup-750.png 
 tags: [DevRel, Meetups, YouTube, Business, Marketing]
 ---
