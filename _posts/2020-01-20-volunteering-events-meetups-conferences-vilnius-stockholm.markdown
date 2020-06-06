@@ -81,5 +81,3 @@ We'd figure out a mutually beneficial and fun agreement on whatever you'd like t
 > *** We'll have a shared Trello board for convenience and observable deadlines
 > 
 > Makes any sense?
-
-{% include_relative partners.md %}
