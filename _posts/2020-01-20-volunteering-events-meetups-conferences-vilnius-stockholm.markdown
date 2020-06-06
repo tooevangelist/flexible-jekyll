@@ -82,3 +82,4 @@ We'd figure out a mutually beneficial and fun agreement on whatever you'd like t
 > 
 > Makes any sense?
 
+{% include_relative partners.md %}
