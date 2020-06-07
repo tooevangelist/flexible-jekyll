@@ -39,4 +39,4 @@ Most of these talks are on our YouTube channel already: [youtube.com/devrelevent
 
 ## How to contact us?
 * devrel.events@gmail.com
-* https://twitter.com/iWozik
+* [twitter.com/iWozik](https://twitter.com/iWozik)
