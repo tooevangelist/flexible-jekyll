@@ -7,7 +7,19 @@ img: devrel-meetup-750.png
 tags: [Meetups, YouTube, Leadership, Influencing, Business]
 ---
 
-### Future events' schedule: [devrel.events/live](https://devrel.events/live)
+## This playlist autoupdates with new videos
+You can save this playlist if the theme of community leadership and developer events is of your interest. As we run our meetups or find cool lectures or workshops - we add them to this playlist. 
+
+Or you can just Subscribe to [youtube.com/devrelevents](https://www.youtube.com/devrelevents). 
+
+<div class="embed-youtube">
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/videoseries?list=PLOY5WvYhE7ctJQHhoh73lp87BUFcFECfR" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Watch the next meetup at [devrel.events/live](https://devrel.events/live)
+
+We run bi-weekly devrel meetups that have themes such as _Youtube and blogging for programmers_. 
+
+Our meetups feature diverse speakers from various sides of the industry. Each meetups brings in new set of speakers cherrypicked for a fun and healthy discussion around the meetup theme.
 
 This event is in the planning stage for July 22
 
@@ -16,18 +28,8 @@ This event is in the planning stage for July 22
 * Shodipo Ayomide, Senior Developer Advocate at Fleek HQ - Principles Guiding Technical Articles: for dev.to
 * This slot is open, want to speak?
 
-### Here's a 5 minute video summary this devrel meetup:
+## Would you like to speak at our meetups?
+You can do a 10 minutes talk - [check out the speaker's guide](https://devrel.events/speakers-guide/) - and join the discussion panel, mingle with the speakers after our meetups.
 
-[https://www.youtube.com/watch?v=YHj5HiV2fPA](https://www.youtube.com/watch?v=YHj5HiV2fPA)
-
-
-
-The recording of this event is available at [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
-
-<div class="embed-youtube">
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/videoseries?list=PLOY5WvYhE7ctJQHhoh73lp87BUFcFECfR" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-
-### Future events' schedule: [devrel.events/live](https://devrel.events/live)
-
-{% include_relative partners-footer.md %}
+<!--
+{% include_relative partners-footer.md %} -->

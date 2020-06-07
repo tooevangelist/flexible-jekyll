@@ -19,7 +19,7 @@ Or you can just Subscribe to [youtube.com/devrelevents](https://www.youtube.com/
 
 We run bi-weekly devrel meetups that have themes such as _Community leadership and developer events_. 
 
-Our meetups feature diverse speakers from various sides of the industry. Each meetups brings in new set of speakers cherrypicked for a fun and healthy discussion around the subject.
+Our meetups feature diverse speakers from various sides of the industry. Each meetups brings in new set of speakers cherrypicked for a fun and healthy discussion around the meetup theme.
 
 ## Some of our speakers:
 * Neringa Young, founder of BuildStuff.events - [twitter.com/NeringaYoung](https://twitter.com/NeringaYoung)

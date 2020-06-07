@@ -7,27 +7,24 @@ img: devrel-meetup-750.png
 tags: [Meetups, YouTube, Conferences, Public Speaking]
 ---
 
-### Future events' schedule: [devrel.events/live](https://devrel.events/live)
+## This playlist autoupdates with new videos
+You can save this playlist if the theme of community leadership and developer events is of your interest. As we run our meetups or find cool lectures or workshops - we add them to this playlist. 
 
-This event has started a series where we discuss public speaking for programmers. It got a nice overview:
-* a view of a full time programmer - Laura Silvanavičiūtė (Lithuania)
-* a view of a developer relations professional - Akshat Sharma (UAE)
-* a view of a self-taught, second career developer who has started doing tech talks just recently - Veronica Hanus (USA)
+Or you can just Subscribe to [youtube.com/devrelevents](https://www.youtube.com/devrelevents). 
 
 <div class="embed-youtube">
 <iframe width="100%" height="auto" src="https://www.youtube.com/embed/videoseries?list=PLOY5WvYhE7cuXsqVAmphgIAJIBWYUh8xf" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-### Some of our speakers:
-#### Laura Silvanavičiūtė, Frontend Software Engineer at Swedbank
-* How to become a speaker 101
-* [twitter.com/laurasilvanavi](https://twitter.com/laurasilvanavi)
+## Watch the next meetup at [devrel.events/live](https://devrel.events/live)
 
-#### Akshat Sharma, Developer Relations & Ecosystem at Tradeling
-* Public Speaking as a Developer
-* [twitter.com/shrmaky](https://twitter.com/shrmaky)
+We run bi-weekly devrel meetups that have themes such as _public speaking for programmers_. 
 
-#### Veronica Hanus, a programmer and an often speaker
-* How do I know what I am good to speak about
-* [twitter.com/veronica_hanus](https://twitter.com/veronica_hanus)
+Our meetups feature diverse speakers from various sides of the industry. Each meetups brings in new set of speakers cherrypicked for a fun and healthy discussion around the meetup theme.
 
-All recordings are available at [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
+## Some of our speakers:
+* Laura Silvanavičiūtė, Frontend Software Engineer at Swedbank - [twitter.com/laurasilvanavi](https://twitter.com/laurasilvanavi)
+* Akshat Sharma, Developer Relations & Ecosystem at Tradeling - [twitter.com/shrmaky](https://twitter.com/shrmaky)
+* Veronica Hanus, a programmer and an often speaker - [twitter.com/veronica_hanus](https://twitter.com/veronica_hanus)
+
+## Would you like to speak at our meetups?
+You can do a 10 minutes talk - [check out the speaker's guide](https://devrel.events/speakers-guide/) - and join the discussion panel, mingle with the speakers after our meetups.
