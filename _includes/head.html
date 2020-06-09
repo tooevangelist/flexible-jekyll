@@ -17,6 +17,7 @@
   {% endif %}
   {% if page.description %}
     <meta content="{{ page.description }}" property="og:description">
+    <meta content="{{ page.description }}" property="og:tagline">
   {% else %}
     <meta content="{{ site.description }}" property="og:description">
   {% endif %}
@@ -43,7 +44,7 @@
     {% endfor %}
   {% endif %}
 
-    <meta name="twitter:card" content="summary">
+    <twitter:card" content="summary">
     <meta name="twitter:site" content="@{{ site.site-twitter }}">
     <meta name="twitter:creator" content="@{{ site.social-twitter }}">
   {% if page.title %}
@@ -64,6 +65,27 @@
   {% else %}
     <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.author-img }}">
   {% endif %}
+
+  <meta name="facebook:publisher" content="devrel.events">
+  {% if page.title %}
+    <meta name="facebook:title" content="{{ page.title }}">
+  {% else %}
+    <meta name="facebook:title" content="{{ site.title }}">
+  {% endif %}
+  {% if page.url %}
+    <meta name="facebook:url" content="{{ site.url }}{{ page.url }}">
+  {% endif %}
+  {% if page.description %}
+    <meta name="facebook:description" content="{{ page.description }}">
+  {% else %}
+    <meta name="facebook:description" content="{{ site.description }}">
+  {% endif %}
+  {% if page.img %}
+    <meta name="facebook:image:src" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ page.img }}">
+  {% else %}
+    <meta name="facebook:image:src" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.author-img }}">
+  {% endif %}
+
 
 	<meta name="description" content="{{ page.description }}">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
