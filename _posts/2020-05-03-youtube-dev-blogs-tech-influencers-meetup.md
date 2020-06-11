@@ -2,7 +2,7 @@
 layout: post
 title: Youtube and blogging for programmers
 date: 2020-05-03 10:00:00 +0000
-description: Writing technical blogs, making videos for programmers, tips and tricks of Twitch, YouTube, dev.to, HackerNews, Reddit and all other platforms - all these buzzwords do belog here 
+description: Writing technical blogs, making videos for programmers, tips and tricks of Twitch, YouTube, dev.to, HackerNews, Reddit and all other platforms. All these buzzwords do belog here 
 img: devrel-meetup-750.png
 tags: [Meetups, YouTube, Leadership, Influencing, Business]
 ---
