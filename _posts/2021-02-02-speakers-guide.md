@@ -7,7 +7,18 @@ img: devrel-events-750.png # Cover image. 750x500 px works best
 tags: [DevRel, Meetups, About] #Tags help site visitors find events. Add an own tag i.e. DevrelFolks and a city, if you feel like it 
 ---
 
-Our speakers are developers, tech writers, developer advocates, community managers, conference organisers, devops people, developer managers and anyone who can contribute to the topics in discussion. 
+## Our meetups feature talks like these:
+It is a playlist with some of the talks from our meetups. It has also some of the panel discussions.
+
+Honestly, we're experimenting with content strategy at the moment, and we try out different things. But perhaps check out some of the videos in the playlist to understand better of what happens at our meetups.
+
+And perhaps consider subscribing to [youtube.com/devrelevents](https://www.youtube.com/devrelevents) =]
+
+<div class="embed-youtube">
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/videoseries?list=PLOY5WvYhE7ctJQHhoh73lp87BUFcFECfR" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Our speakers are 
+developers, tech writers, developer advocates, community managers, conference organisers, devops people, developer managers and anyone who can contribute to the topics in discussion. 
 
 We try to balance each meetup to feature speakers with different experience and background, so we all are able to learn something new and have fun. or vice versa =] 
 
