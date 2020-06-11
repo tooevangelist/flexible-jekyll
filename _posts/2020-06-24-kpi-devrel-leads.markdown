@@ -2,7 +2,7 @@
 layout: post
 title: KPIs in developer relations
 date: 2020-06-24 10:00:00 +0000
-description: Meet data-driven colleagues and discuss how does one put a number to relations and if we all should hate the term 'developer marketing' 
+description: Meet data-driven colleagues and discuss how does one put a number to relations and shall we love or hate developer marketing 
 img: devrel-meetup-750.png 
 tags: [DevRel, Meetups, YouTube, Business, Marketing, Developer Marketing]
 ---
