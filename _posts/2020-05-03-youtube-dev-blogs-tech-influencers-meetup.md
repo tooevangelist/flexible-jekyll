@@ -23,7 +23,7 @@ Our meetups feature diverse speakers from various sides of the industry. Each me
 Here's the lineup:
 * Viktor Gamov, Developer Advocate at Confluent - I’m not a YouTuber; come and learn how you can be one, or die trying
 * Shodipo Ayomide, Senior Developer Advocate at Fleek HQ - Principles Guiding Technical Articles: for dev.to
-* This slot is open, [want to speak]((https://devrel.events/speakers-guide/))?
+* Mia Moore, Developer Advocate at IBM - topic TBA
 
 Full schedule of our meetups is currently [available at the Live page](https://devrel.events/live).
 
@@ -33,4 +33,3 @@ You can do a 10 minutes talk - [check out the speaker's guide](https://devrel.ev
 
 <!--
 {% include_relative partners-footer.md %} -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-9MS4U1QH7c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
