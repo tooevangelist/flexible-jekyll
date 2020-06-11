@@ -1,3 +1,13 @@
+June 10 - *public speaking for programmers*, part 2
+* Leon Stigter, Product Manager App Toolkit at VMware - Every talk has to be unique, right?
+* Heidi Waterhouse, Developer Advocate at LaunchDarkly - Speaker bio: I am having an existential crisis
+* Ciro Continisio, Developer Advocate at Unity Technologies - Building Curiosity: Making feature demos actually interesting
+
+June 24 - *KPIs for devrel*
+* Alyss Noland, Senior Developer Advocate at Box - Metrics aren't your north star 
+* Richard Muir, Data Journalist at SlashData - Three perspectives on the success of developer relations
+* Patrick Woods, Co-founder of Orbit.love - Announcing devrel-kpis.com, a crowdsourced home for DevRel KPI reference and wisdom
+
 May 27 - Online conferences and content for developers
 * Neringa Young, founder of BuildStuff.events - How to sell your virtual event?
 * Lerika Mallaeva, founder of DevGAMM - Moving my conference online: do's and don'ts
