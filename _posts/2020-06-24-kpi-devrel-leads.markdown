@@ -4,7 +4,7 @@ title: KPIs in developer relations
 date: 2020-06-24 10:00:00 +0000
 description: Meet data-driven colleagues and discuss how does one put a number to relations and if we shall love or hate developer marketing 
 img: devrel-meetup-750.png 
-tags: [DevRel, Meetups, YouTube, Business, Marketing, Developer Marketing]
+tags: [DevRel, Meetups, YouTube, Developer Marketing]
 ---
 
 ## This playlist autoupdates with new videos
