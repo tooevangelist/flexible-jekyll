@@ -2,7 +2,7 @@
 layout: post
 title: Youtube and blogging for programmers
 date: 2020-05-03 10:00:00 +0000
-description: Meet developers who like speaking at conferences to learn why and how from them
+description: Writing technical blogs, making videos for programmers, tips&tricks of Twitch, YouTube, dev.to, HackerNews, Reddit and all other platforms - all these buzzwords do belog here 
 img: devrel-meetup-750.png
 tags: [Meetups, YouTube, Leadership, Influencing, Business]
 ---
