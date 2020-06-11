@@ -13,7 +13,7 @@ You can save this playlist if the theme of community leadership and developer ev
 Or you can just Subscribe to [youtube.com/devrelevents](https://www.youtube.com/devrelevents). 
 
 <div class="embed-youtube">
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/videoseries?list=-9MS4U1QH7c&list=PLOY5WvYhE7ctJQHhoh73lp87BUFcFECfR&index=13?t=30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/-9MS4U1QH7c?t=30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 We run bi-weekly devrel meetups that have themes such as _Youtube and blogging for programmers_. 
 
@@ -33,3 +33,4 @@ You can do a 10 minutes talk - [check out the speaker's guide](https://devrel.ev
 
 <!--
 {% include_relative partners-footer.md %} -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-9MS4U1QH7c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
