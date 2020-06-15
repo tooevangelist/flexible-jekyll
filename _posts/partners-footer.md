@@ -1,2 +1,1 @@
 ### this is from the partners footer include
-
