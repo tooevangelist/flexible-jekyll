@@ -10,12 +10,12 @@ tags: [DevRel, Meetups, About] #Tags help site visitors find events. Add an own 
 ## Our meetups feature talks like these:
 It is a playlist with some of the talks from our meetups. It has also some of the panel discussions.
 
+<div class="embed-youtube">
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/videoseries?list=PLOY5WvYhE7ctJQHhoh73lp87BUFcFECfR" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 Honestly, we're experimenting with content strategy at the moment, and we try out different things. But perhaps check out some of the videos in the playlist to understand better of what happens at our meetups.
 
 And perhaps consider subscribing to [youtube.com/devrelevents](https://www.youtube.com/devrelevents) =]
-
-<div class="embed-youtube">
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/videoseries?list=PLOY5WvYhE7ctJQHhoh73lp87BUFcFECfR" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Our speakers are 
 developers, tech writers, developer advocates, community managers, conference organisers, devops people, developer managers and anyone who can contribute to the topics in discussion. 

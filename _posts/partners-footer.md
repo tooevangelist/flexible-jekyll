@@ -9,9 +9,9 @@ But if you have something else in mind, please talk to us!
 * We can add you as a co-host on [Facebook.com/devrel.events](https://www.facebook.com/devrel.events) 
 * We can let you know in advance when we publish new events on [devrelevents.eventbrite.com/](https://devrelevents.eventbrite.com/)
 * We craft a message of why we like you
-* * On every event ad of ours over FB, EB, Meetup, devrel.events/live
-* * Under YouTube videos from the events that you helped with
-* * Under each podcast episode when we get to ship our YouTube videos as podcasts
+* * On every event ad of ours over FB, EB, Meetup, [devrel.events/live](https://devrel.events/live/)
+* * Under YouTube videos from the events that you will have supported
+* * Under each podcast episode when we ship our YouTube videos as podcasts
 
 
 ## Here's an inspiration of some recent support we've got:

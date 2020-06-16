@@ -1,4 +1,4 @@
-## These is the program for Devrel Events Online Season 1:
+## Below is the program for Devrel Events Online Season 1:
 
 July 22
 * Viktor Gamov, Developer Advocate at Confluent - I’m not a YouTuber; come and learn how you can be one, or die trying
@@ -8,7 +8,7 @@ July 22
 July 8
 * Suyash Joshi, Developer Advocate and SPM for Oracle Cloud - Storytelling for technical speakers
 * Edidiong Asikpo, Software Engineer at Interswitch Group - The Developer Ecosystem in Africa
-* Nora Navardauskaitė - topic TBA
+* Nora Navardauskaitė, a geeky opinionated teen - Teens are scared of tech. What you can do about it
 
 June 24
 * Alyss Noland, Senior Developer Advocate at Box - Metrics aren’t your north star
