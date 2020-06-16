@@ -26,7 +26,7 @@ Think of a hallway track at your favourite industry event. This is what we're ai
 
 ## TL;DR:
 * Your talk is 10 minutes
-* If you go overtime, we'll have less (or no) time for Q&A
+* If you go over time, we'll have less (or no) time for Q&A
 * You can show slides or share the screen
 
 ## More context:
@@ -46,8 +46,6 @@ Think of a hallway track at your favourite industry event. This is what we're ai
 
 {% include_relative events-list.md %}
 
-Most of these talks are on our YouTube channel already: [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
+Many of these talks are on our YouTube channel already: [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
 
-## How to contact us?
-* devrel.events@gmail.com
-* [twitter.com/iWozik](https://twitter.com/iWozik)
+{% include_relative partners-footer.md %}

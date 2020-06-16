@@ -7,7 +7,7 @@ img: devrel-meetup-750.png
 tags: [Meetups, Community, YouTube, Online, Conferences]
 ---
 
-## This playlist autoupdates with new videos
+## This playlist auto-updates with new videos
 You can save this playlist if the theme of community leadership and developer events is of your interest. As we run our meetups or find cool lectures or workshops - we add them to this playlist. 
 
 Or you can just Subscribe to [youtube.com/devrelevents](https://www.youtube.com/devrelevents). 
@@ -19,7 +19,7 @@ Or you can just Subscribe to [youtube.com/devrelevents](https://www.youtube.com/
 
 We run bi-weekly devrel meetups that have themes such as _Community leadership and developer events_. 
 
-Our meetups feature diverse speakers from various sides of the industry. Each meetups brings in new set of speakers cherrypicked for a fun and healthy discussion around the meetup theme.
+Our meetups feature diverse speakers from various sides of the industry. Each meetup brings in new set of speakers cherrypicked for a fun and healthy discussion around the meetup theme.
 
 ## Some of our speakers:
 * Neringa Young, founder of BuildStuff.events - [twitter.com/NeringaYoung](https://twitter.com/NeringaYoung)
@@ -28,3 +28,5 @@ Our meetups feature diverse speakers from various sides of the industry. Each me
 
 ## Would you like to speak at our meetups?
 You can do a 10 minutes talk - [check out the speaker's guide](https://devrel.events/speakers-guide/) - and join the discussion panel, mingle with the speakers after our meetups.
+
+{% include_relative partners-footer.md %}

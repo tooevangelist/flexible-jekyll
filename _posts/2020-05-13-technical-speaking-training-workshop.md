@@ -27,3 +27,5 @@ Here's the lineup:
 
 ## Would you like to speak at our meetups?
 You can do a 10 minutes talk - [check out the speaker's guide](https://devrel.events/speakers-guide/) - and join the discussion panel, mingle with the speakers after our meetups.
+
+{% include_relative partners-footer.md %}
