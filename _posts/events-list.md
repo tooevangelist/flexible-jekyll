@@ -1,4 +1,6 @@
-## <a name="season1"></a> Below is the program for Devrel Events Online Season 1:
+## <a name="season1"></a> Devrel Events Online Season 1:
+
+Most of these talks are already available at [youtube.com/devrelevents](https://www.youtube.com/devrelevents)
 
 July 22
 * Viktor Gamov, Developer Advocate at Confluent - I’m not a YouTuber; come and learn how you can be one, or die trying
