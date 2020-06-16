@@ -1,4 +1,4 @@
-## <a name="season1"></a> Would you like to support these meetups?
+## Would you like to support these meetups?
 We're a new initiative trying to build an inclusive community for tech leads and developer relations professionals by creating quality content with global appeal and unique touch.
 We don't talk D&I, we operate with D&I in mind to create the content of better quality. 
 
