@@ -19,7 +19,7 @@ We run bi-weekly devrel meetups that have themes such as _KPIs in developer rela
 
 Our meetups feature diverse speakers from various sides of the industry. Each meetup brings in new set of diverse and knowledgable speakers for a fun and healthy discussion around the meetup theme.
 
-## The next meetup in the series is staged for July 24
+## The next meetup in the series is staged for June 24
 Here's the lineup:
 * Alyss Noland, Senior Developer Advocate at Box
 * Richard Muir, Data Journalist at SlashData
