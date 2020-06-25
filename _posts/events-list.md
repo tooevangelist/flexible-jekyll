@@ -5,11 +5,11 @@ Most of these talks are already available at [youtube.com/devrelevents](https://
 July 22
 * Viktor Gamov, Developer Advocate at Confluent - I’m not a YouTuber; come and learn how you can be one, or die trying
 * Shodipo Ayomide, Senior Developer Advocate at Fleek HQ - Principles guiding technical articles for dev.to
-* Mia Moore, Developer Advocate at IBM - topic TBA
+* Mia Moore, Developer Advocate at IBM - topic TBA (using twitch for tech presentations)
 
 July 8
 * Suyash Joshi, Developer Advocate and SPM for Oracle Cloud - Storytelling for technical speakers
-* Edidiong Asikpo, Software Engineer at Interswitch Group - The Developer Ecosystem in Africa
+* Edidiong Asikpo, Software Engineer at Interswitch Group - A guide to speaking at conferences in Africa
 * Nora Navardauskaitė, a geeky opinionated teen - Teens are scared of tech. What you can do about it
 
 June 24
