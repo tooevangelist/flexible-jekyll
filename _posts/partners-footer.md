@@ -13,6 +13,7 @@ We don't talk D&I, we operate with D&I in mind to create the content of better q
 ## What we give back immediately
 * We add you as a co-host on [Facebook.com/devrel.events](https://www.facebook.com/devrel.events) 
 * We listen to you when we're discussing new events, guests, shows, podcasts
+* Our Eventbrite subscription form can have questions that you totally want to ask
 * We craft a message of why we like you
 * * On every event ad of ours over FB, EB, Meetup, [devrel.events/live](https://devrel.events/live/)
 * * Under YouTube videos from the events that you will have supported
