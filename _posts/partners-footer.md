@@ -5,14 +5,13 @@ We don't talk D&I, we operate with D&I in mind to create the content of better q
 ## You can support us by 
 * Letting more people know about these events
 * Inviting your community or colleagues to our meetups
-* Helping us with devops for our Jitsi Meet and Jibri setups
-* Helping us tune our FFMPEG setup in the cloud
+* Helping us with devops and development (FFMPEG, XMPP, Jitsi, Jibri, a bit of front end)
 * Pretty much any other initiative that you think can be good =) 
 * * New shows?
 
-## What we give back immediately
+## What we give back
 * We add you as a co-host on [Facebook.com/devrel.events](https://www.facebook.com/devrel.events) 
-* We listen to you when we're discussing new events, guests, shows, podcasts
+* We listen to you when we're planning new events, guests, shows, podcasts
 * Our Eventbrite subscription form can have questions that you totally want to ask
 * We craft a message of why we like you
 * * On every event ad of ours over FB, EB, Meetup, [devrel.events/live](https://devrel.events/live/)
@@ -20,7 +19,7 @@ We don't talk D&I, we operate with D&I in mind to create the content of better q
 * * Under each podcast episode when we ship our YouTube videos as podcasts
 
 
-## Here's an inspiration of some recent support we've got:
+## Here's the recent support we got:
 
 * [Civo Cloud](http://civo.com/) - sponsor the infrastructure of our voice chat
 * [SlashData](http://slashdata.co/) - help to org and promote our events
