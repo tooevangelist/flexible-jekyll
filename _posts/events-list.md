@@ -8,7 +8,7 @@ July 22
 * Mia Moore, Developer Advocate at IBM - Livestreaming for Technical Content: Twitch, YouTube, and Beyond
 
 July 8
-* Suyash Joshi, Developer Advocate and SPM for Oracle Cloud - Storytelling for technical speakers
+* Suyash Joshi, Director, Developer Marketing at Oracle - Storytelling for technical speakers
 * Edidiong Asikpo, Software Engineer at Interswitch Group - A guide to speaking at conferences in Africa
 * Nora Navardauskaitė, a geeky opinionated teen - Teens are scared of tech. What you can do about it
 
