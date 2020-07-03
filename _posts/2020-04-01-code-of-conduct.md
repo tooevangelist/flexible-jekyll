@@ -26,11 +26,11 @@ Refrain from demeaning, discriminatory or harassing behaviour and speech.
 
 Be mindful of your surroundings and of your fellow participants. Alert conference organisers if you notice a dangerous situation or someone in distress.
 
-Participate in an authentic and active way. In doing so, you help to create Build Stuff Conference and make it your own.
+Participate in an authentic and active way. In doing so, you help to make this community and our meetups better, you become a part of this all.
 
 ### UNACCEPTABLE BEHAVIOUR
 
-Unacceptable behaviours include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning conduct by any attendees of Build Stuff Conference and related events.
+Unacceptable behaviours include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning conduct by any attendees of any Devrel Events related events or communities.
 
 Harassment includes: offensive verbal comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images in public spaces (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention.
 
