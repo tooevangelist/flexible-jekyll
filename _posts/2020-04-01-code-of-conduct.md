@@ -7,8 +7,6 @@ img: devrel-events-750.png
 tags: [DevRel, Meetups, About]
 ---
 
-## Code Of Conduct
-
 This Code of Conduct is a vital part of making our community inclusive and friendly. That’s why we expect everyone participating in our organised or affiliated meetups or events to read and adhere to this Code of Conduct. If you have any questions or concerns, please don’t hesitate to contact us via email: team@devrel.events, or speak to anyone in Devrel Events team in person.
 
 ### PURPOSE
