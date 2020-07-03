@@ -28,7 +28,7 @@ Be mindful of your surroundings and of your fellow participants. Alert conferenc
 
 Participate in an authentic and active way. In doing so, you help to create Build Stuff Conference and make it your own.
 
-​### UNACCEPTABLE BEHAVIOUR
+### UNACCEPTABLE BEHAVIOUR
 
 Unacceptable behaviours include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning conduct by any attendees of Build Stuff Conference and related events.
 
@@ -60,7 +60,7 @@ If you see someone who is making an extra effort to ensure our community is welc
 
 We expect all community and our meetups participants (sponsors, volunteers, speakers, attendees, and other guests) to abide by this Code of Conduct.
 
-​### REPORT A CODE OF CONDUCT INCIDENT ONLINE
+### REPORT A CODE OF CONDUCT INCIDENT ONLINE
 
 You can contact the Code of Conduct team by emailing to team@devrel.events.
 
