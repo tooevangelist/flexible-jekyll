@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to measure KPIs in Developer Relations
-date: 2020-06-24 10:00:00 +0000
+date: 2020-01-24 10:00:00 +0000
 description: Meet data-driven colleagues and discuss how does one put a number to relations and if we shall love or hate developer marketing 
 img: devrel-meetup-750.png 
 tags: [DevRel, Meetups, YouTube, Developer Marketing]

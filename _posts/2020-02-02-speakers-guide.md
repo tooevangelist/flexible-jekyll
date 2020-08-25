@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Want to speak at one of our meetups?
-date: 2021-02-02 10:00:00 +0000 # Date and time for your event
+date: 2020-02-02 10:00:00 +0000 # Date and time for your event
 description: Your talk is 10 minutes * Your talk has a single take-away message * You can show slides or share a screen * Read on for more context and FAQ # Post description
 img: devrel-events-750.png # Cover image. 750x500 px works best 
 tags: [DevRel, Meetups, About] #Tags help site visitors find events. Add an own tag i.e. DevrelFolks and a city, if you feel like it 
