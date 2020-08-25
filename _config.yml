@@ -1,5 +1,5 @@
-title: Developer Relations Events
-description: Developer Relations Events # this means to ignore newlines until "baseurl:"  configyml
+title: Developer Marketing, Developer Relations, Developer Experience, Developer Community and Events as a Service
+description: Developer Marketing, Virtual Developer Meetups, Developer Relations Program Outsourcing # this means to ignore newlines until "baseurl:"  configyml
 permalink: ':title/'
 baseurl: # "/flexible-jekyll" # the subpath of your site, e.g. /blog
 url: http://devrel.events # the base hostname & protocol for your site, e.g. http://example.com
@@ -8,7 +8,7 @@ site-twitter: iwozik #if your site has a twitter account, enter it here
 # Author Settings
 author: DevRel Events # add your name
 author-img: ofus128b.png # add your photo
-about-author: Community meetups around the topics of developer relations, tech writing, developer community management. 
+about-author: We're solving the challenge of developer marketing to game developers. 
 social-twitter: iwozik # add your Twitter handle
 social-facebook: devrelevents # add your Facebook handle
 social-github: tooevangelist # add your Github handle
@@ -28,6 +28,7 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jemoji
+
 
 paginate: 8
 paginate_path: "/page/:num"
