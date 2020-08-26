@@ -11,8 +11,7 @@ tags: [DevRel, About, Podcast, Developer Marketing] #Tags help site visitors fin
 
 ### Code, Speak, Repeat podcast is like a hallway track at your favourite developer conference. 
 
-Join our Discord for early access to content and live podcast recordings:
-https://discord.gg/qtzgxZc 
+Join [our Discord](https://discord.gg/qtzgxZc) for early access to content and live podcast recordings. 
 
 * Production: [https://twitter.com/iWozik](https://twitter.com/iWozik)
 * Music: [soundcloud.com/zethkeeper](https://soundcloud.com/zethkeeper)

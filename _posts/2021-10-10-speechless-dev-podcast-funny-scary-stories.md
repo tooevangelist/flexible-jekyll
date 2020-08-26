@@ -11,8 +11,7 @@ tags: [DevRel, About, Podcast, Developer Marketing] #Tags help site visitors fin
 
 ### Fun and scary developer stories that leave you speechless 👁👄👁
 
-Join our Discord for early access to content and live podcast recordings:
-https://discord.gg/qtzgxZc 
+Join [our Discord](https://discord.gg/qtzgxZc) for early access to content and live podcast recordings.
 
 * Production: [https://twitter.com/iWozik](https://twitter.com/iWozik)
 * Music: [soundcloud.com/musicalblockchain](https://soundcloud.com/musicalblockchain/)
