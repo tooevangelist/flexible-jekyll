@@ -15,3 +15,5 @@ You can Subscribe to [youtube.com/devrelevents](https://www.youtube.com/devrelev
 We run bi-weekly devrel meetups that have themes such as _Youtube and blogging for programmers_. 
 
 Our meetups feature diverse speakers from various sides of the industry. Each meetup brings in new set of speakers cherrypicked for a fun and healthy discussion around the meetup theme.
+
+{% include_relative events-list.md %}

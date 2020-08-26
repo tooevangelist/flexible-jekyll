@@ -41,6 +41,3 @@ April 15
 * Hassan Al Kazmi, Artist Advocate at King - How much support should a developer advocate provide
 * Janina Łaszkiewicz, Agile Coach, Community Manager, Founder of Eventspace.by - Doing events so developers like them 3000
 * Mostafa Moradian, Developer Advocate at Load Impact - DevRel content strategies with a focus on SEO optimization for developers
-
-## Season 2 is in the process of planning now
-We'll continue running bi-weekly meetups with an improved format focused on discussion panels with attendees in the voice-chat.
