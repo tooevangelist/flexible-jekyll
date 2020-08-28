@@ -20,6 +20,4 @@ Our meetups feature diverse speakers from various sides of the industry. Each me
 
 {% include_relative content-footer.md %}
 
-### This is how the Season 1 looked like:
-
 {% include_relative events-list.md %}
