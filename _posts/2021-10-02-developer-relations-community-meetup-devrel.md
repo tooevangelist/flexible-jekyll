@@ -3,7 +3,7 @@ layout: post
 title: Developer Relations Community Live Meetups
 date: 2021-10-02 10:00:00 +0000 # Date and time for your event
 description: Developer Relations, Developer Marketing, Customer Success, Community Management
-img: devrel-events-750.png
+img: devrel-meetup-750.png
 tags: [DevRel, YouTube, Podcast, Developer Marketing] #Tags help site visitors find events. Add an own tag i.e. DevrelFolks and a city, if you feel like it 
 ---
 
@@ -19,7 +19,5 @@ We run bi-weekly meetups around the topic of developer relations, developer mark
 Our meetups feature diverse speakers from various sides of the industry. Each meetup brings in new set of speakers cherrypicked for a fun and healthy discussion around the meetup theme.
 
 {% include_relative content-footer.md %}
-
-### This is how the Season 1 looked like:
 
 {% include_relative events-list.md %}
