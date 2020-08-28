@@ -1,6 +1,6 @@
 ---
 layout: post
-title: F.K Webinars live podcast
+title: F.K Webinars Live Podcast
 date: 2021-09-15 10:00:00 +0000
 description: Strong opinions about online communities and tools
 img: cover-fk-webinars-500.jpg

@@ -3,7 +3,7 @@ layout: post
 title: Developer Relations Community Live Meetups
 date: 2021-10-02 10:00:00 +0000 # Date and time for your event
 description: Developer Relations, Developer Marketing, Customer Success, Community Management
-img: devrel-events-750.png
+img: devrel-meetup-750.png
 tags: [DevRel, YouTube, Podcast, Developer Marketing] #Tags help site visitors find events. Add an own tag i.e. DevrelFolks and a city, if you feel like it 
 ---
 
