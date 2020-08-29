@@ -7,29 +7,33 @@ img: gamestech-750.png # Add image post (optional)
 tags: [GameDev, Meetups, Vilnius] # add tag
 ---
 
-## This is a pre-corona version of the page and will be updated soon
+## A series of events in Unity office
 
-Games Tech + Stories is a series of community meetups to discuss game development tools and processes but also to celebrate the wins of the local gamedev industry.
+Games Tech + Stories is a series of community meetups to discuss game development tools and processes but also to celebrate the wins of the local gamedev industry. It is a great opportunity to learn something new, see the cool things that local game developers make and meet new people.
 
-It is a great opportunity to learn something new, see the cool things that local game developers make and meet new people.
+This is a hybrid event - it is livestreamed and is friendly to remote speakers.
 
-To get a feeling what it is like - check out the pictures from our previous meetups.
 
-#### Games Tech + Stories #1 meetup agenda:
+#### Games Tech + Stories #1
 * 18:30 - doors open
 * 19:00 - Games/Tech Showcase
 * 19:30 - The Massive Talent Machine that Unity has established in Vilnius
-* 20:00 - Back to 2008. How and why we started a Unity office in Lithuania
+* 20:00 - Back to 2008. The story of Unity in Lithuania
 * 20:30 - Global Q&A with all speakers
 * 21:00 - Networking
-Want to bring a story, show a cool shader, a physics-powered GUI script, a screenshot of your upcoming game? Enter the Games/Tech Showcase here.
 
-Note: some snacks and soft drinks will be served at 18:30. We'll have a vegetarian option.
+#### Games Tech + Stories #2
+* 18:30 - doors open
+* 19:00 - Games/Tech Showcase
+* 19:30 - How the flagship Unity's Heretic demo was made
+* 20:00 - Back to 2002. The story of Global Game Jam in Lithuania
+* 20:30 - Global Q&A
+* 21:00 - Networking
 
-Like what we're doing?
-Want to have our event at your office?
-Want to help out with design or copywriting?
-We're experimenting with recording and live-streaming of our events. Let us know if you're interested to chip in.
-Collabs! Anything fun and useful is appreciated.
-Here's more info about volunteering and collabs
-We reply fast at devrel.events@gmail.com
+#### Games Tech + Stories #3
+18:30 - doors open
+19:00 - Games/Tech Showcase
+19:30 - Whats possible with AI in Unity
+20:00 - Back to 2006. The story of Syberian Conflict, AAA game made in Lithuania
+20:30 - Global Q&A
+21:00 - Networking

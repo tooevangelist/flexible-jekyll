@@ -21,8 +21,8 @@ You can actively participate in the dialogue, then easily connect to the people 
 
 This short tale describes emotions we hope to bring you with Code, Speak, Repeat.  
 
-{% include_relative content-footer.md %}
-
 * Production: [https://twitter.com/iWozik](https://twitter.com/iWozik)
 * Music: [soundcloud.com/zethkeeper](soundcloud.com/zethkeeper)
 * Art:[instagram.com/bezazazumno](https://www.instagram.com/bezazazumno)
+
+{% include_relative content-footer.md %}
