@@ -14,7 +14,7 @@ You can Subscribe to [youtube.com/devrelevents](https://www.youtube.com/devrelev
 
 ### Developer Relations, Developer Marketing, Customer Success, Community Management
 
-We run bi-weekly meetups around the topic of developer relations, developer marketing, developer community management and customer development, customer success. 
+We run bi-weekly meetups around the topics of developer relations, developer marketing, developer community management, customer development, customer success. 
 
 Our meetups feature diverse speakers from various sides of the industry. Each meetup brings in new set of speakers cherrypicked for a fun and healthy discussion around the meetup theme.
 
