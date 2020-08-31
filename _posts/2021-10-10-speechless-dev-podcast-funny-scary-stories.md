@@ -15,8 +15,8 @@ Every developer has a story to tell. Some of these stories are scary, some are f
 
 This live podcast series is a collection of the best developer stories we are able find.
 
-{% include_relative content-footer.md %}
-
 * Production: [https://twitter.com/iWozik](https://twitter.com/iWozik)
 * Music: [soundcloud.com/musicalblockchain](https://soundcloud.com/musicalblockchain/)
 * Art:[instagram.com/bezazazumno](https://www.instagram.com/bezazazumno)
+
+{% include_relative content-footer.md %}
