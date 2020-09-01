@@ -31,9 +31,9 @@ This is a hybrid event - it is livestreamed and is friendly to remote speakers.
 * 21:00 - Networking
 
 #### Games Tech + Stories #3
-18:30 - doors open
-19:00 - Games/Tech Showcase
-19:30 - Whats possible with AI in Unity
-20:00 - Back to 2006. The story of Syberian Conflict, AAA game made in Lithuania
-20:30 - Global Q&A
-21:00 - Networking
+* 18:30 - doors open
+* 19:00 - Games/Tech Showcase
+* 19:30 - Whats possible with AI in Unity
+* 20:00 - Back to 2006. The story of Syberian Conflict, AAA game made in Lithuania
+* 20:30 - Global Q&A
+* 21:00 - Networking
